@@ -1,0 +1,58 @@
+
+{
+  "languages": [
+    {
+      "id": 1,
+      "code": "FR",
+      "name": "French",
+      "left_to_right": true,
+      "remove_spaces": false,
+      "split_each_char": false,
+      "regex_split_sentences": "/.!?:;/"
+    },
+    {
+      "id": 2,
+      "code": "EN",
+      "name": "English",
+      "left_to_right": true,
+      "remove_spaces": false,
+      "split_each_char": false,
+      "regex_split_sentences": "/.!?:;/"
+    },
+    {
+      "id": 3,
+      "code": "RU",
+      "name": "Russian",
+      "left_to_right": true,
+      "remove_spaces": false,
+      "split_each_char": false,
+      "regex_split_sentences": "/.!?:;/"
+    }
+  ],
+  "texts": [
+    {
+      "id": 1,
+      "title": "Text title",
+      "content": "My content for this text\nAnd another page",
+      "media_file": "test.mp3",
+      "source_url": "https//www.text.com",
+      "id_language": 2
+    }
+  ],
+  "words": [
+    {
+      "id": 1,
+      "word": "content",
+      "meaning": "Contenido",
+      "grade": 3,
+      "id_language": 2,
+    },
+    {
+      "id": 2,
+      "word": "my content",
+      "meaning": "My contenido",
+      "grade": 2,
+      "id_language": 2
+    }
+  ]
+}
