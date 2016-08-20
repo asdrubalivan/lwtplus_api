@@ -1,6 +1,7 @@
 var models = require('../models');
 
 var express = require('express');
+var _ = require('lodash');
 var router  = express.Router();
 
 function getLanguageParams(params) {
@@ -23,19 +24,30 @@ router.get('/', (req, res) => {
   });
 });
 
+router.get('/:id', (req, res) => {
+  models.Language.find({
+    where: {
+      id: req.params.id
+    }
+  }).then((lang) => {
+    if (!_.isNull(lang)) {
+      res.send(lang);
+    } else {
+      res.sendStatus(404);
+    }
+  }, (err) => {
+    res.status(500).send(err);
+  });
+});
+
 router.post('/', (req, res) => {
   let languageParams = getLanguageParams(req.body);
   models.Language.create(languageParams)
   .then((lang) => {
-    res.send({
-      status: 'success',
-      language: lang,
-    });
-    //TODO Check for an error
+    res.send(lang);
   }, (err) => {
-    res.send({
-      status: 'error',
-      error: err,
+    res.status(500).send({
+      error: err
     });
   });
 });
@@ -56,10 +68,25 @@ router.put('/:id', (req, res) => {
       status: 'success',
       language: lang,
     }, (err) => {
-      res.send({
-        status: 'error',
-        error: err,
-      });
+      res.sendStatus(404);
+    });
+  });
+});
+
+router.delete('/:id',(req, res) => {
+  let condition = {
+    where: {
+      id: req.params.id
+    }
+  };
+  models.Language.destroy(condition)
+  .then((destroyed) => {
+    res.send({
+      rowsDestroyed: destroyed
+    });
+  }, (err) => {
+    res.status(500).send({
+      error: err
     });
   });
 });
