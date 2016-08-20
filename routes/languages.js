@@ -17,11 +17,8 @@ function getLanguageParams(params) {
 
 router.get('/', (req, res) => {
   models.Language.findAll().then((langs)=>{
-    res.send({
-      status: 'success',
-      languages: langs
-    });
-  });
+    res.send(langs);
+  },() => { res.sendStatus(500); });
 });
 
 router.get('/:id', (req, res) => {

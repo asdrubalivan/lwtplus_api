@@ -14,11 +14,8 @@ function getWordParams(params) {
 }
 
 router.get('/', (req, res) => {
-  models.Word.findAll().then((langs)=>{
-    res.send({
-      status: 'success',
-      Words: langs
-    });
+  models.Word.findAll().then((words)=>{
+    res.send(words);
   });
 });
 
