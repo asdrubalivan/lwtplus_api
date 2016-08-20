@@ -1,12 +1,12 @@
 'use strict';
-
 module.exports = {
-  up: function (queryInterface, Sequelize) {
-    return queryInterface.createTable('words', {
+  up: function(queryInterface, Sequelize) {
+    return queryInterface.createTable('Words', {
       id: {
-        type: Sequelize.INTEGER(11).UNSIGNED,
+        allowNull: false,
+        autoIncrement: true,
         primaryKey: true,
-        autoIncrement: true
+        type: Sequelize.INTEGER
       },
       word: {
         type: Sequelize.STRING,
@@ -20,17 +20,20 @@ module.exports = {
       id_language: {
         type: Sequelize.INTEGER(11).UNSIGNED,
         references: {
-            model: 'languages',
+            model: 'Languages',
             key: 'id'
         },
         onUpdate: 'cascade',
         onDelete: 'cascade',
         allowNull: false,
+      },
+      updatedAt: {
+        allowNull: false,
+        type: Sequelize.DATE
       }
     });
   },
-
-  down: function (queryInterface, Sequelize) {
-    return queryInterface.dropTable('words');
+  down: function(queryInterface, Sequelize) {
+    return queryInterface.dropTable('Words');
   }
 };

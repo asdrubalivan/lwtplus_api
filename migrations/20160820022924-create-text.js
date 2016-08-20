@@ -1,13 +1,14 @@
 'use strict';
-
 module.exports = {
-  up: function (queryInterface, Sequelize) {
+  up: function(queryInterface, Sequelize) {
     let max_size_url = 2083;
-    return queryInterface.createTable('texts',{
-      id : {
-        type: Sequelize.INTEGER(11).UNSIGNED,
+    return queryInterface.createTable('Texts', {
+
+      id: {
+        allowNull: false,
+        autoIncrement: true,
         primaryKey: true,
-        autoIncrement: true
+        type: Sequelize.INTEGER
       },
       title: {
         type: Sequelize.STRING,
@@ -22,17 +23,24 @@ module.exports = {
       id_language: {
         type: Sequelize.INTEGER(11).UNSIGNED,
         references: {
-            model: 'languages',
+            model: 'Languages',
             key: 'id'
         },
         onUpdate: 'cascade',
         onDelete: 'cascade',
         allowNull: false,
+      },
+      createdAt: {
+        allowNull: false,
+        type: Sequelize.DATE
+      },
+      updatedAt: {
+        allowNull: false,
+        type: Sequelize.DATE
       }
     });
   },
-
-  down: function (queryInterface, Sequelize) {
-    return queryInterface.dropTable('texts');
+  down: function(queryInterface, Sequelize) {
+    return queryInterface.dropTable('Texts');
   }
 };
