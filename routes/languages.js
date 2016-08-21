@@ -19,7 +19,7 @@ router.get('/', (req, res) => {
   models.Language.findAll().then((langs)=>{
     res.send(langs);
   },() => {
-    res.sendStatus(500); 
+    res.sendStatus(500);
   });
 });
 
@@ -63,11 +63,10 @@ router.put('/:id', (req, res) => {
       id: req.params.id
     }
   }).then((lang) => {
-    res.send({
-      status: 'success',
-      language: lang,
-    }, (err) => {
-      res.sendStatus(404);
+    res.send(lang);
+  }, (err) => {
+    res.status(500).send({
+      error: err
     });
   });
 });

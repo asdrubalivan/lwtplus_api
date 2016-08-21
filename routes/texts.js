@@ -62,11 +62,10 @@ router.put('/:id', (req, res) => {
       id: req.params.id
     }
   }).then((text) => {
-    res.send({
-      status: 'success',
-      Text: text,
-    }, (err) => {
-      res.sendStatus(404);
+    res.send(text)
+  }, (err) => {
+    res.status(500).send({
+      error: err
     });
   });
 });

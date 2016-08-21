@@ -58,12 +58,11 @@ router.put('/:id', (req, res) => {
     where: {
       id: req.params.id
     }
-  }).then((lang) => {
-    res.send({
-      status: 'success',
-      Word: lang,
-    }, (err) => {
-      res.sendStatus(404);
+  }).then((word) => {
+    res.send(word);
+  }, (err) => {
+    res.status(500).send({
+      error: err,
     });
   });
 });
