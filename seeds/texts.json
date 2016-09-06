@@ -1,13 +1,11 @@
-﻿{
-"select TxLgID as id, TxTitle as title, TxText as content, 
-	TxAudioURI as media_file, TxSourceURI as source_url, TxLgID as id_language  from texts": [
+[
 	{
-		"TxLgID" : 1,
-		"TxTitle" : "Mon premier don du sang",
-		"TxText" : "Bonjour Manon.
+		"id" : 1,
+		"title" : "Mon premier don du sang",
+		"content" : "Bonjour Manon.
 Bonjour.
 Alors, je crois qu’il y a pas longtemps, là, vous avez fait une bonne action ?
-Oui. 
+Oui.
 On peut dire ça comme ça. Qu’est-ce que vous avez fait, alors ?
 Alors, j’ai fait mon premier don du sang. Donc c’est à dire que on va dans une... Un organisme spécialisé vient dans l’IUT, dans notre université pour... pour prendre notre sang pour les malades de l’hôpital qui en ont besoin...
 Oui, voilà, en cas d’accident par exemple, etc...
@@ -97,54 +95,54 @@ Je... je pars avec moins d’appréhension, en tout cas, pour la deuxième fois.
 Oui, d’accord. Bon, bah, c’est bien, alors, d’avoir fait ça.
 Oui.
 D’accord. Bah très bien pour les... pour les gens à qui ça va servir. Merci Manon.",
-		"TxAudioURI" : "http://lwt.sourceforge.net/media/dondusang.mp3",
-		"TxSourceURI" : "http://francebienvenue1.wordpress.com/2011/06/18/generosite/",
-		"TxLgID" : 1
+		"media_file" : "http://lwt.sourceforge.net/media/dondusang.mp3",
+		"source_url" : "http://francebienvenue1.wordpress.com/2011/06/18/generosite/",
+		"id" : 1
 	},
 	{
-		"TxLgID" : 2,
-		"TxTitle" : "The Man and the Dog (annotated version)",
-		"TxText" : "一天，一个男人走在街上。突然，他看见前面有一只黑色的大狗，看起来很凶。男人非常害怕，不敢往前走。狗的旁边站着一个女人，男人问她：你的狗咬人吗？女人说：我的狗不咬人。这时，那只狗咬了男人。他气坏了，大叫：你说你的狗不咬人！女人回答：这不是我的狗。",
-		"TxAudioURI" : "http://lwt.sourceforge.net/media/manandthedog.mp3",
-		"TxSourceURI" : "http://chinesepod.com/lessons/the-man-and-the-dog",
-		"TxLgID" : 2
+		"id" : 2,
+		"title" : "The Man and the Dog (annotated version)",
+		"content" : "一天，一个男人走在街上。突然，他看见前面有一只黑色的大狗，看起来很凶。男人非常害怕，不敢往前走。狗的旁边站着一个女人，男人问她：你的狗咬人吗？女人说：我的狗不咬人。这时，那只狗咬了男人。他气坏了，大叫：你说你的狗不咬人！女人回答：这不是我的狗。",
+		"media_file" : "http://lwt.sourceforge.net/media/manandthedog.mp3",
+		"source_url" : "http://chinesepod.com/lessons/the-man-and-the-dog",
+		"id" : 2
 	},
 	{
-		"TxLgID" : 3,
-		"TxTitle" : "Die Leiden des jungen Werther",
-		"TxText" : "Wie froh bin ich, daß ich weg bin! Bester Freund, was ist das Herz des Menschen! Dich zu verlassen, den ich so liebe, von dem ich unzertrennlich war, und froh zu sein! Ich weiß, du verzeihst mir's. Waren nicht meine übrigen Verbindungen recht ausgesucht vom Schicksal, um ein Herz wie das meine zu ängstigen? Die arme Leonore! Und doch war ich unschuldig. Konnt' ich dafür, daß, während die eigensinnigen Reize ihrer Schwester mir eine angenehme Unterhaltung verschafften, daß eine Leidenschaft in dem armen Herzen sich bildete? Und doch – bin ich ganz unschuldig? Hab' ich nicht ihre Empfindungen genährt? Hab' ich mich nicht an den ganz wahren Ausdrücken der Natur, die uns so oft zu lachen machten, so wenig lächerlich sie waren, selbst ergetzt? Hab' ich nicht – o was ist der Mensch, daß er über sich klagen darf! Ich will, lieber Freund, ich verspreche dir's, ich will mich bessern, will nicht mehr ein bißchen Übel, das uns das Schicksal vorlegt, wiederkäuen, wie ich's immer getan habe; ich will das Gegenwärtige genießen, und das Vergangene soll mir vergangen sein. Gewiß, du hast recht, Bester, der Schmerzen wären minder unter den Menschen, wenn sie nicht – Gott weiß, warum sie so gemacht sind! – mit so viel Emsigkeit der Einbildungskraft sich beschäftigten, die Erinnerungen des vergangenen Übels zurückzurufen, eher als eine gleichgültige Gegenwart zu ertragen.
+		"id" : 3,
+		"title" : "Die Leiden des jungen Werther",
+		"content" : "Wie froh bin ich, daß ich weg bin! Bester Freund, was ist das Herz des Menschen! Dich zu verlassen, den ich so liebe, von dem ich unzertrennlich war, und froh zu sein! Ich weiß, du verzeihst mir's. Waren nicht meine übrigen Verbindungen recht ausgesucht vom Schicksal, um ein Herz wie das meine zu ängstigen? Die arme Leonore! Und doch war ich unschuldig. Konnt' ich dafür, daß, während die eigensinnigen Reize ihrer Schwester mir eine angenehme Unterhaltung verschafften, daß eine Leidenschaft in dem armen Herzen sich bildete? Und doch – bin ich ganz unschuldig? Hab' ich nicht ihre Empfindungen genährt? Hab' ich mich nicht an den ganz wahren Ausdrücken der Natur, die uns so oft zu lachen machten, so wenig lächerlich sie waren, selbst ergetzt? Hab' ich nicht – o was ist der Mensch, daß er über sich klagen darf! Ich will, lieber Freund, ich verspreche dir's, ich will mich bessern, will nicht mehr ein bißchen Übel, das uns das Schicksal vorlegt, wiederkäuen, wie ich's immer getan habe; ich will das Gegenwärtige genießen, und das Vergangene soll mir vergangen sein. Gewiß, du hast recht, Bester, der Schmerzen wären minder unter den Menschen, wenn sie nicht – Gott weiß, warum sie so gemacht sind! – mit so viel Emsigkeit der Einbildungskraft sich beschäftigten, die Erinnerungen des vergangenen Übels zurückzurufen, eher als eine gleichgültige Gegenwart zu ertragen.
 Du bist so gut, meiner Mutter zu sagen, daß ich ihr Geschäft bestens betreiben und ihr ehstens Nachricht davon geben werde. Ich habe meine Tante gesprochen und bei weitem das böse Weib nicht gefunden, das man bei uns aus ihr macht. Sie ist eine muntere, heftige Frau von dem besten Herzen. Ich erklärte ihr meiner Mutter Beschwerden über den zurückgehaltenen Erbschaftsanteil; sie sagte mir ihre Gründe, Ursachen und die Bedingungen, unter welchen sie bereit wäre, alles herauszugeben, und mehr als wir verlangten – kurz, ich mag jetzt nichts davon schreiben, sage meiner Mutter, es werde alles gut gehen. Und ich habe, mein Lieber, wieder bei diesem kleinen Geschäft gefunden, daß Mißverständnisse und Trägheit vielleicht mehr Irrungen in der Welt machen als List und Bosheit. Wenigstens sind die beiden letzteren gewiß seltener.
 Übrigens befinde ich mich hier gar wohl. Die Einsamkeit ist meinem Herzen köstlicher Balsam in dieser paradiesischen Gegend, und diese Jahreszeit der Jugend wärmt mit aller Fülle mein oft schauderndes Herz. Jeder Baum, jede Hecke ist ein Strauß von Blüten, und man möchte zum Maienkäfer werden, um in dem Meer von Wohlgerüchen herumschweben und alle seine Nahrung darin finden zu können.
 Die Stadt selbst ist unangenehm, dagegen rings umher eine unaussprechliche Schönheit der Natur. Das bewog den verstorbenen Grafen von M., einen Garten auf einem der Hügel anzulegen, die mit der schönsten Mannigfaltigkeit sich kreuzen und die lieblichsten Täler bilden. Der Garten ist einfach, und man fühlt gleich bei dem Eintritte, daß nicht ein wissenschaftlicher Gärtner, sondern ein fühlendes Herz den Plan gezeichnet, das seiner selbst hier genießen wollte. Schon manche Träne hab' ich dem Abgeschiedenen in dem verfallenen Kabinettchen geweint, das sein Lieblingsplätzchen war und auch meines ist. Bald werde ich Herr vom Garten sein; der Gärtner ist mir zugetan, nur seit den paar Tagen, und er wird sich nicht übel dabei befinden.",
-		"TxAudioURI" : "http://lwt.sourceforge.net/media/werther.mp3",
-		"TxSourceURI" : "http://www.gutenberg.org/ebooks/2407",
-		"TxLgID" : 3
+		"media_file" : "http://lwt.sourceforge.net/media/werther.mp3",
+		"source_url" : "http://www.gutenberg.org/ebooks/2407",
+		"id" : 3
 	},
 	{
-		"TxLgID" : 4,
-		"TxTitle" : "The Man and the Dog",
-		"TxText" : "一天，一 个 男人 走 在 街上。 突然，他 看见 前面 有 一 只 黑色 的 大 狗，看起来 很 凶。 男人 非常 害怕，不敢 往前 走。 狗 的 旁边 站着 一 个 女人，男人 问 她： 你 的 狗 咬 人 吗？ 女人 说： 我 的 狗 不 咬 人。 这时，那 只 狗 咬 了 男人。 他 气坏 了，大 叫： 你 说 你 的 狗 不 咬 人！ 女人 回答： 这 不是 我 的 狗。",
-		"TxAudioURI" : "http://lwt.sourceforge.net/media/manandthedog.mp3",
-		"TxSourceURI" : "http://chinesepod.com/lessons/the-man-and-the-dog",
-		"TxLgID" : 4
+		"id" : 4,
+		"title" : "The Man and the Dog",
+		"content" : "一天，一 个 男人 走 在 街上。 突然，他 看见 前面 有 一 只 黑色 的 大 狗，看起来 很 凶。 男人 非常 害怕，不敢 往前 走。 狗 的 旁边 站着 一 个 女人，男人 问 她： 你 的 狗 咬 人 吗？ 女人 说： 我 的 狗 不 咬 人。 这时，那 只 狗 咬 了 男人。 他 气坏 了，大 叫： 你 说 你 的 狗 不 咬 人！ 女人 回答： 这 不是 我 的 狗。",
+		"media_file" : "http://lwt.sourceforge.net/media/manandthedog.mp3",
+		"source_url" : "http://chinesepod.com/lessons/the-man-and-the-dog",
+		"id" : 4
 	},
 	{
-		"TxLgID" : 5,
-		"TxTitle" : "Some expressions",
-		"TxText" : "はい。いいえ。
+		"id" : 5,
+		"title" : "Some expressions",
+		"content" : "はい。いいえ。
 すみません。
 どうも。
 ありがとうございます。
 日本語を話しますか。はい、少し。
 イギリスから来ました。",
-		"TxAudioURI" : "http://lwt.sourceforge.net/media/jap.mp3",
-		"TxSourceURI" : null,
-		"TxLgID" : 5
+		"media_file" : "http://lwt.sourceforge.net/media/jap.mp3",
+		"source_url" : null,
+		"id" : 5
 	},
 	{
-		"TxLgID" : 6,
-		"TxTitle" : "Test in Korean",
-		"TxText" : "좋은 아침.
+		"id" : 6,
+		"title" : "Test in Korean",
+		"content" : "좋은 아침.
 안녕하세요.
 잘자요.
 잘가요.
@@ -154,42 +152,42 @@ Die Stadt selbst ist unangenehm, dagegen rings umher eine unaussprechliche Schö
 이름이 뭐에요?
 제 이름은 존이에요, 이름이 뭐에요?
 제 이름은 메리에요.",
-		"TxAudioURI" : "http://lwt.sourceforge.net/media/korean.mp3",
-		"TxSourceURI" : null,
-		"TxLgID" : 6
+		"media_file" : "http://lwt.sourceforge.net/media/korean.mp3",
+		"source_url" : null,
+		"id" : 6
 	},
 	{
-		"TxLgID" : 7,
-		"TxTitle" : "Hello in Thai",
-		"TxText" : "ส วัส ดี ครับ
+		"id" : 7,
+		"title" : "Hello in Thai",
+		"content" : "ส วัส ดี ครับ
 ส วัส ดี ค่ะ",
-		"TxAudioURI" : "http://lwt.sourceforge.net/media/thai.mp3",
-		"TxSourceURI" : null,
-		"TxLgID" : 7
+		"media_file" : "http://lwt.sourceforge.net/media/thai.mp3",
+		"source_url" : null,
+		"id" : 7
 	},
 	{
-		"TxLgID" : 8,
-		"TxTitle" : "Greetings",
-		"TxText" : "בוקר טוב
+		"id" : 8,
+		"title" : "Greetings",
+		"content" : "בוקר טוב
 אחר צהריים טובים
 ערב טוב
 לילה טוב
 להתראות",
-		"TxAudioURI" : "http://lwt.sourceforge.net/media/hebrew.mp3",
-		"TxSourceURI" : null,
-		"TxLgID" : 8
+		"media_file" : "http://lwt.sourceforge.net/media/hebrew.mp3",
+		"source_url" : null,
+		"id" : 8
 	},
 	{
-		"TxLgID" : 1,
-		"TxTitle" : "Mon premier don du sang (Short & annotated version)",
-		"TxText" : "Bonjour Manon.
+		"id" : 1,
+		"title" : "Mon premier don du sang (Short & annotated version)",
+		"content" : "Bonjour Manon.
 Bonjour.
 Alors, je crois qu’il y a pas longtemps, là, vous avez fait une bonne action ?
-Oui. 
+Oui.
 On peut dire ça comme ça. Qu’est-ce que vous avez fait, alors ?
 Alors, j’ai fait mon premier don du sang.",
-		"TxAudioURI" : "http://lwt.sourceforge.net/media/dondusang_short.mp3",
-		"TxSourceURI" : "http://francebienvenue1.wordpress.com/2011/06/18/generosite/",
-		"TxLgID" : 1
+		"media_file" : "http://lwt.sourceforge.net/media/dondusang_short.mp3",
+		"source_url" : "http://francebienvenue1.wordpress.com/2011/06/18/generosite/",
+		"id" : 1
 	}
-]}
+]

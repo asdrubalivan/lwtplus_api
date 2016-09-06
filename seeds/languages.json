@@ -1,75 +1,74 @@
-﻿{
-"SELECT "FIXME AND FIX LEFT TO RIGHT (Invert)" as code, LgID as id, LgName as name, LgRightToLeft as left_to_right, LgRemoveSpaces as remove_spaces, LgSplitEachChar as split_each_char, LgRegexpSplitSentences as regex_split_sentences FROM languages": [
+[
 	{
-		"code" : "FIXME AND FIX LEFT TO RIGHT (Invert)",
-		"LgID" : 1,
-		"LgName" : "French",
-		"LgRightToLeft" : 0,
-		"LgRemoveSpaces" : 0,
-		"LgSplitEachChar" : 0,
-		"LgRegexpSplitSentences" : ".!?:;"
+		"code" : "FR",
+		"id" : 1,
+		"name" : "French",
+		"left_to_right" : 1,
+		"remove_spaces" : 0,
+		"split_each_char" : 0,
+		"regex_split_sentences" : ".!?:;"
 	},
 	{
-		"code" : "FIXME AND FIX LEFT TO RIGHT (Invert)",
-		"LgID" : 2,
-		"LgName" : "Chinese",
-		"LgRightToLeft" : 0,
-		"LgRemoveSpaces" : 1,
-		"LgSplitEachChar" : 1,
-		"LgRegexpSplitSentences" : ".!?:;。！？：；"
+		"code" : "CH",
+		"id" : 2,
+		"name" : "Chinese",
+		"left_to_right" : 1,
+		"remove_spaces" : 1,
+		"split_each_char" : 1,
+		"regex_split_sentences" : ".!?:;。！？：；"
 	},
 	{
-		"code" : "FIXME AND FIX LEFT TO RIGHT (Invert)",
-		"LgID" : 3,
-		"LgName" : "German",
-		"LgRightToLeft" : 0,
-		"LgRemoveSpaces" : 0,
-		"LgSplitEachChar" : 0,
-		"LgRegexpSplitSentences" : ".!?:;"
+		"code" : "GE",
+		"id" : 3,
+		"name" : "German",
+		"left_to_right" : 1,
+		"remove_spaces" : 0,
+		"split_each_char" : 0,
+		"regex_split_sentences" : ".!?:;"
 	},
 	{
-		"code" : "FIXME AND FIX LEFT TO RIGHT (Invert)",
-		"LgID" : 4,
-		"LgName" : "Chinese2",
-		"LgRightToLeft" : 0,
-		"LgRemoveSpaces" : 1,
-		"LgSplitEachChar" : 0,
-		"LgRegexpSplitSentences" : ".!?:;。！？：；"
+		"code" : "CH2",
+		"id" : 4,
+		"name" : "Chinese2",
+		"left_to_right" : 1,
+		"remove_spaces" : 1,
+		"split_each_char" : 0,
+		"regex_split_sentences" : ".!?:;。！？：；"
 	},
 	{
-		"code" : "FIXME AND FIX LEFT TO RIGHT (Invert)",
-		"LgID" : 5,
-		"LgName" : "Japanese",
-		"LgRightToLeft" : 0,
-		"LgRemoveSpaces" : 1,
-		"LgSplitEachChar" : 1,
-		"LgRegexpSplitSentences" : ".!?:;。！？：；"
+		"code" : "JP",
+		"id" : 5,
+		"name" : "Japanese",
+		"left_to_right" : 1,
+		"remove_spaces" : 1,
+		"split_each_char" : 1,
+		"regex_split_sentences" : ".!?:;。！？：；"
 	},
 	{
-		"code" : "FIXME AND FIX LEFT TO RIGHT (Invert)",
-		"LgID" : 6,
-		"LgName" : "Korean",
-		"LgRightToLeft" : 0,
-		"LgRemoveSpaces" : 0,
-		"LgSplitEachChar" : 0,
-		"LgRegexpSplitSentences" : ".!?:;。！？：；"
+		"code" : "KR",
+		"id" : 6,
+		"name" : "Korean",
+		"left_to_right" : 1,
+		"remove_spaces" : 0,
+		"split_each_char" : 0,
+		"regex_split_sentences" : ".!?:;。！？：；"
 	},
 	{
-		"code" : "FIXME AND FIX LEFT TO RIGHT (Invert)",
-		"LgID" : 7,
-		"LgName" : "Thai",
-		"LgRightToLeft" : 0,
-		"LgRemoveSpaces" : 1,
-		"LgSplitEachChar" : 0,
-		"LgRegexpSplitSentences" : ".!?:;"
+		"code" : "TH",
+		"id" : 7,
+		"name" : "Thai",
+		"left_to_right" : 1,
+		"remove_spaces" : 1,
+		"split_each_char" : 0,
+		"regex_split_sentences" : ".!?:;"
 	},
 	{
-		"code" : "FIXME AND FIX LEFT TO RIGHT (Invert)",
-		"LgID" : 8,
-		"LgName" : "Hebrew",
-		"LgRightToLeft" : 1,
-		"LgRemoveSpaces" : 0,
-		"LgSplitEachChar" : 0,
-		"LgRegexpSplitSentences" : ".!?:;"
+		"code" : "HB",
+		"id" : 8,
+		"name" : "Hebrew",
+		"left_to_right" : 0,
+		"remove_spaces" : 0,
+		"split_each_char" : 0,
+		"regex_split_sentences" : ".!?:;"
 	}
-]}
+]

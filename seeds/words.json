@@ -1,1452 +1,1451 @@
-﻿{
-"select WoID as id, WoText as word, WoTranslation as meaning, WoStatus as grade, WoLgID as id_language from words": [
+﻿[
 	{
-		"WoID" : 1,
-		"WoText" : "Manon",
-		"WoTranslation" : "(name)",
-		"WoStatus" : 98,
-		"WoLgID" : 1
+		"id" : 1,
+		"word" : "Manon",
+		"meaning" : "(name)",
+		"status" : 98,
+		"id_language" : 1
 	},
 	{
-		"WoID" : 2,
-		"WoText" : "bonjour",
-		"WoTranslation" : "hello / good morning / good afternoon",
-		"WoStatus" : 5,
-		"WoLgID" : 1
+		"id" : 2,
+		"word" : "bonjour",
+		"meaning" : "hello / good morning / good afternoon",
+		"status" : 5,
+		"id_language" : 1
 	},
 	{
-		"WoID" : 3,
-		"WoText" : "alors",
-		"WoTranslation" : "then / in that case / at the time / else / if not / my goodness / well",
-		"WoStatus" : 5,
-		"WoLgID" : 1
+		"id" : 3,
+		"word" : "alors",
+		"meaning" : "then / in that case / at the time / else / if not / my goodness / well",
+		"status" : 5,
+		"id_language" : 1
 	},
 	{
-		"WoID" : 4,
-		"WoText" : "il y a",
-		"WoTranslation" : "there is / there are",
-		"WoStatus" : 2,
-		"WoLgID" : 1
+		"id" : 4,
+		"word" : "il y a",
+		"meaning" : "there is / there are",
+		"status" : 2,
+		"id_language" : 1
 	},
 	{
-		"WoID" : 170,
-		"WoText" : "pas",
-		"WoTranslation" : "(not) / footstep / step / walk",
-		"WoStatus" : 2,
-		"WoLgID" : 1
+		"id" : 170,
+		"word" : "pas",
+		"meaning" : "(not) / footstep / step / walk",
+		"status" : 2,
+		"id_language" : 1
 	},
 	{
-		"WoID" : 6,
-		"WoText" : "qu",
-		"WoTranslation" : "that / how / so that",
-		"WoStatus" : 5,
-		"WoLgID" : 1
+		"id" : 6,
+		"word" : "qu",
+		"meaning" : "that / how / so that",
+		"status" : 5,
+		"id_language" : 1
 	},
 	{
-		"WoID" : 7,
-		"WoText" : "je",
-		"WoTranslation" : "I",
-		"WoStatus" : 5,
-		"WoLgID" : 1
+		"id" : 7,
+		"word" : "je",
+		"meaning" : "I",
+		"status" : 5,
+		"id_language" : 1
 	},
 	{
-		"WoID" : 8,
-		"WoText" : "crois",
-		"WoTranslation" : "believe / think",
-		"WoStatus" : 4,
-		"WoLgID" : 1
+		"id" : 8,
+		"word" : "crois",
+		"meaning" : "believe / think",
+		"status" : 4,
+		"id_language" : 1
 	},
 	{
-		"WoID" : 9,
-		"WoText" : "一",
-		"WoTranslation" : "one / a",
-		"WoStatus" : 2,
-		"WoLgID" : 2
+		"id" : 9,
+		"word" : "一",
+		"meaning" : "one / a",
+		"status" : 2,
+		"id_language" : 2
 	},
 	{
-		"WoID" : 10,
-		"WoText" : "天",
-		"WoTranslation" : "sky, day",
-		"WoStatus" : 2,
-		"WoLgID" : 2
+		"id" : 10,
+		"word" : "天",
+		"meaning" : "sky, day",
+		"status" : 2,
+		"id_language" : 2
 	},
 	{
-		"WoID" : 11,
-		"WoText" : "一天",
-		"WoTranslation" : "one day",
-		"WoStatus" : 1,
-		"WoLgID" : 2
+		"id" : 11,
+		"word" : "一天",
+		"meaning" : "one day",
+		"status" : 1,
+		"id_language" : 2
 	},
 	{
-		"WoID" : 12,
-		"WoText" : "个",
-		"WoTranslation" : "(MW)",
-		"WoStatus" : 2,
-		"WoLgID" : 2
+		"id" : 12,
+		"word" : "个",
+		"meaning" : "(MW)",
+		"status" : 2,
+		"id_language" : 2
 	},
 	{
-		"WoID" : 13,
-		"WoText" : "男",
-		"WoTranslation" : "male",
-		"WoStatus" : 2,
-		"WoLgID" : 2
+		"id" : 13,
+		"word" : "男",
+		"meaning" : "male",
+		"status" : 2,
+		"id_language" : 2
 	},
 	{
-		"WoID" : 14,
-		"WoText" : "人",
-		"WoTranslation" : "human being / person",
-		"WoStatus" : 2,
-		"WoLgID" : 2
+		"id" : 14,
+		"word" : "人",
+		"meaning" : "human being / person",
+		"status" : 2,
+		"id_language" : 2
 	},
 	{
-		"WoID" : 15,
-		"WoText" : "男人",
-		"WoTranslation" : "man",
-		"WoStatus" : 2,
-		"WoLgID" : 2
+		"id" : 15,
+		"word" : "男人",
+		"meaning" : "man",
+		"status" : 2,
+		"id_language" : 2
 	},
 	{
-		"WoID" : 16,
-		"WoText" : "走",
-		"WoTranslation" : "walk",
-		"WoStatus" : 2,
-		"WoLgID" : 2
+		"id" : 16,
+		"word" : "走",
+		"meaning" : "walk",
+		"status" : 2,
+		"id_language" : 2
 	},
 	{
-		"WoID" : 17,
-		"WoText" : "在",
-		"WoTranslation" : "be / live/ at",
-		"WoStatus" : 2,
-		"WoLgID" : 2
+		"id" : 17,
+		"word" : "在",
+		"meaning" : "be / live/ at",
+		"status" : 2,
+		"id_language" : 2
 	},
 	{
-		"WoID" : 18,
-		"WoText" : "街",
-		"WoTranslation" : "street",
-		"WoStatus" : 1,
-		"WoLgID" : 2
+		"id" : 18,
+		"word" : "街",
+		"meaning" : "street",
+		"status" : 1,
+		"id_language" : 2
 	},
 	{
-		"WoID" : 19,
-		"WoText" : "上",
-		"WoTranslation" : "on / in / go up / upper part / last",
-		"WoStatus" : 2,
-		"WoLgID" : 2
+		"id" : 19,
+		"word" : "上",
+		"meaning" : "on / in / go up / upper part / last",
+		"status" : 2,
+		"id_language" : 2
 	},
 	{
-		"WoID" : 20,
-		"WoText" : "街上",
-		"WoTranslation" : "on the street",
-		"WoStatus" : 1,
-		"WoLgID" : 2
+		"id" : 20,
+		"word" : "街上",
+		"meaning" : "on the street",
+		"status" : 1,
+		"id_language" : 2
 	},
 	{
-		"WoID" : 21,
-		"WoText" : "突然",
-		"WoTranslation" : "suddenly",
-		"WoStatus" : 2,
-		"WoLgID" : 2
+		"id" : 21,
+		"word" : "突然",
+		"meaning" : "suddenly",
+		"status" : 2,
+		"id_language" : 2
 	},
 	{
-		"WoID" : 22,
-		"WoText" : "qu'est-ce que",
-		"WoTranslation" : "what",
-		"WoStatus" : 4,
-		"WoLgID" : 1
+		"id" : 22,
+		"word" : "qu'est-ce que",
+		"meaning" : "what",
+		"status" : 4,
+		"id_language" : 1
 	},
 	{
-		"WoID" : 23,
-		"WoText" : "est-ce que",
-		"WoTranslation" : "is it that",
-		"WoStatus" : 4,
-		"WoLgID" : 1
+		"id" : 23,
+		"word" : "est-ce que",
+		"meaning" : "is it that",
+		"status" : 4,
+		"id_language" : 1
 	},
 	{
-		"WoID" : 24,
-		"WoText" : "est-ce",
-		"WoTranslation" : "is that / is this",
-		"WoStatus" : 3,
-		"WoLgID" : 1
+		"id" : 24,
+		"word" : "est-ce",
+		"meaning" : "is that / is this",
+		"status" : 3,
+		"id_language" : 1
 	},
 	{
-		"WoID" : 25,
-		"WoText" : "est",
-		"WoTranslation" : "is / east",
-		"WoStatus" : 1,
-		"WoLgID" : 1
+		"id" : 25,
+		"word" : "est",
+		"meaning" : "is / east",
+		"status" : 1,
+		"id_language" : 1
 	},
 	{
-		"WoID" : 26,
-		"WoText" : "dire",
-		"WoTranslation" : "say / tell",
-		"WoStatus" : 3,
-		"WoLgID" : 1
+		"id" : 26,
+		"word" : "dire",
+		"meaning" : "say / tell",
+		"status" : 3,
+		"id_language" : 1
 	},
 	{
-		"WoID" : 27,
-		"WoText" : "wie",
-		"WoTranslation" : "how",
-		"WoStatus" : 2,
-		"WoLgID" : 3
+		"id" : 27,
+		"word" : "wie",
+		"meaning" : "how",
+		"status" : 2,
+		"id_language" : 3
 	},
 	{
-		"WoID" : 28,
-		"WoText" : "froh",
-		"WoTranslation" : "happy / glad",
-		"WoStatus" : 2,
-		"WoLgID" : 3
+		"id" : 28,
+		"word" : "froh",
+		"meaning" : "happy / glad",
+		"status" : 2,
+		"id_language" : 3
 	},
 	{
-		"WoID" : 29,
-		"WoText" : "bin",
-		"WoTranslation" : "am",
-		"WoStatus" : 2,
-		"WoLgID" : 3
+		"id" : 29,
+		"word" : "bin",
+		"meaning" : "am",
+		"status" : 2,
+		"id_language" : 3
 	},
 	{
-		"WoID" : 30,
-		"WoText" : "ich",
-		"WoTranslation" : "I",
-		"WoStatus" : 2,
-		"WoLgID" : 3
+		"id" : 30,
+		"word" : "ich",
+		"meaning" : "I",
+		"status" : 2,
+		"id_language" : 3
 	},
 	{
-		"WoID" : 31,
-		"WoText" : "daß",
-		"WoTranslation" : "that / so that",
-		"WoStatus" : 2,
-		"WoLgID" : 3
+		"id" : 31,
+		"word" : "daß",
+		"meaning" : "that / so that",
+		"status" : 2,
+		"id_language" : 3
 	},
 	{
-		"WoID" : 32,
-		"WoText" : "weg",
-		"WoTranslation" : "away / gone / path / way",
-		"WoStatus" : 2,
-		"WoLgID" : 3
+		"id" : 32,
+		"word" : "weg",
+		"meaning" : "away / gone / path / way",
+		"status" : 2,
+		"id_language" : 3
 	},
 	{
-		"WoID" : 33,
-		"WoText" : "don du sang",
-		"WoTranslation" : "blood donation",
-		"WoStatus" : 2,
-		"WoLgID" : 1
+		"id" : 33,
+		"word" : "don du sang",
+		"meaning" : "blood donation",
+		"status" : 2,
+		"id_language" : 1
 	},
 	{
-		"WoID" : 34,
-		"WoText" : "一天",
-		"WoTranslation" : "one day",
-		"WoStatus" : 1,
-		"WoLgID" : 4
+		"id" : 34,
+		"word" : "一天",
+		"meaning" : "one day",
+		"status" : 1,
+		"id_language" : 4
 	},
 	{
-		"WoID" : 35,
-		"WoText" : "男人",
-		"WoTranslation" : "man",
-		"WoStatus" : 1,
-		"WoLgID" : 4
+		"id" : 35,
+		"word" : "男人",
+		"meaning" : "man",
+		"status" : 1,
+		"id_language" : 4
 	},
 	{
-		"WoID" : 36,
-		"WoText" : "突然",
-		"WoTranslation" : "suddenly",
-		"WoStatus" : 1,
-		"WoLgID" : 4
+		"id" : 36,
+		"word" : "突然",
+		"meaning" : "suddenly",
+		"status" : 1,
+		"id_language" : 4
 	},
 	{
-		"WoID" : 37,
-		"WoText" : "他",
-		"WoTranslation" : "he",
-		"WoStatus" : 1,
-		"WoLgID" : 4
+		"id" : 37,
+		"word" : "他",
+		"meaning" : "he",
+		"status" : 1,
+		"id_language" : 4
 	},
 	{
-		"WoID" : 38,
-		"WoText" : "这时",
-		"WoTranslation" : "at this moment",
-		"WoStatus" : 1,
-		"WoLgID" : 4
+		"id" : 38,
+		"word" : "这时",
+		"meaning" : "at this moment",
+		"status" : 1,
+		"id_language" : 4
 	},
 	{
-		"WoID" : 39,
-		"WoText" : "狗",
-		"WoTranslation" : "dog",
-		"WoStatus" : 1,
-		"WoLgID" : 4
+		"id" : 39,
+		"word" : "狗",
+		"meaning" : "dog",
+		"status" : 1,
+		"id_language" : 4
 	},
 	{
-		"WoID" : 40,
-		"WoText" : "女人",
-		"WoTranslation" : "woman",
-		"WoStatus" : 1,
-		"WoLgID" : 4
+		"id" : 40,
+		"word" : "女人",
+		"meaning" : "woman",
+		"status" : 1,
+		"id_language" : 4
 	},
 	{
-		"WoID" : 41,
-		"WoText" : "看起来",
-		"WoTranslation" : "it seems / it appears / it looks as if",
-		"WoStatus" : 1,
-		"WoLgID" : 4
+		"id" : 41,
+		"word" : "看起来",
+		"meaning" : "it seems / it appears / it looks as if",
+		"status" : 1,
+		"id_language" : 4
 	},
 	{
-		"WoID" : 42,
-		"WoText" : "凶",
-		"WoTranslation" : "ferocious, fierce",
-		"WoStatus" : 1,
-		"WoLgID" : 4
+		"id" : 42,
+		"word" : "凶",
+		"meaning" : "ferocious, fierce",
+		"status" : 1,
+		"id_language" : 4
 	},
 	{
-		"WoID" : 43,
-		"WoText" : "c'est",
-		"WoTranslation" : "it's / that's",
-		"WoStatus" : 1,
-		"WoLgID" : 1
+		"id" : 43,
+		"word" : "c'est",
+		"meaning" : "it's / that's",
+		"status" : 1,
+		"id_language" : 1
 	},
 	{
-		"WoID" : 44,
-		"WoText" : "c",
-		"WoTranslation" : "that / it",
-		"WoStatus" : 5,
-		"WoLgID" : 1
+		"id" : 44,
+		"word" : "c",
+		"meaning" : "that / it",
+		"status" : 5,
+		"id_language" : 1
 	},
 	{
-		"WoID" : 45,
-		"WoText" : "quoi",
-		"WoTranslation" : "what",
-		"WoStatus" : 3,
-		"WoLgID" : 1
+		"id" : 45,
+		"word" : "quoi",
+		"meaning" : "what",
+		"status" : 3,
+		"id_language" : 1
 	},
 	{
-		"WoID" : 46,
-		"WoText" : "bonne action",
-		"WoTranslation" : "good deed",
-		"WoStatus" : 2,
-		"WoLgID" : 1
+		"id" : 46,
+		"word" : "bonne action",
+		"meaning" : "good deed",
+		"status" : 2,
+		"id_language" : 1
 	},
 	{
-		"WoID" : 47,
-		"WoText" : "你",
-		"WoTranslation" : "you",
-		"WoStatus" : 1,
-		"WoLgID" : 4
+		"id" : 47,
+		"word" : "你",
+		"meaning" : "you",
+		"status" : 1,
+		"id_language" : 4
 	},
 	{
-		"WoID" : 48,
-		"WoText" : "你的",
-		"WoTranslation" : "your",
-		"WoStatus" : 1,
-		"WoLgID" : 4
+		"id" : 48,
+		"word" : "你的",
+		"meaning" : "your",
+		"status" : 1,
+		"id_language" : 4
 	},
 	{
-		"WoID" : 49,
-		"WoText" : "的",
-		"WoTranslation" : "of / 's / (Part.)",
-		"WoStatus" : 5,
-		"WoLgID" : 4
+		"id" : 49,
+		"word" : "的",
+		"meaning" : "of / 's / (Part.)",
+		"status" : 5,
+		"id_language" : 4
 	},
 	{
-		"WoID" : 50,
-		"WoText" : "il",
-		"WoTranslation" : "he",
-		"WoStatus" : 1,
-		"WoLgID" : 1
+		"id" : 50,
+		"word" : "il",
+		"meaning" : "he",
+		"status" : 1,
+		"id_language" : 1
 	},
 	{
-		"WoID" : 51,
-		"WoText" : "ils",
-		"WoTranslation" : "they",
-		"WoStatus" : 1,
-		"WoLgID" : 1
+		"id" : 51,
+		"word" : "ils",
+		"meaning" : "they",
+		"status" : 1,
+		"id_language" : 1
 	},
 	{
-		"WoID" : 52,
-		"WoText" : "フランス",
-		"WoTranslation" : "France",
-		"WoStatus" : 1,
-		"WoLgID" : 5
+		"id" : 52,
+		"word" : "フランス",
+		"meaning" : "France",
+		"status" : 1,
+		"id_language" : 5
 	},
 	{
-		"WoID" : 53,
-		"WoText" : "はい",
-		"WoTranslation" : "yes / OK / okay",
-		"WoStatus" : 1,
-		"WoLgID" : 5
+		"id" : 53,
+		"word" : "はい",
+		"meaning" : "yes / OK / okay",
+		"status" : 1,
+		"id_language" : 5
 	},
 	{
-		"WoID" : 103,
-		"WoText" : "日",
-		"WoTranslation" : "day / Japan / sun",
-		"WoStatus" : 3,
-		"WoLgID" : 5
+		"id" : 103,
+		"word" : "日",
+		"meaning" : "day / Japan / sun",
+		"status" : 3,
+		"id_language" : 5
 	},
 	{
-		"WoID" : 54,
-		"WoText" : "は",
-		"WoTranslation" : "(Hiragana: ha) / (topic m.)",
-		"WoStatus" : 5,
-		"WoLgID" : 5
+		"id" : 54,
+		"word" : "は",
+		"meaning" : "(Hiragana: ha) / (topic m.)",
+		"status" : 5,
+		"id_language" : 5
 	},
 	{
-		"WoID" : 55,
-		"WoText" : "い",
-		"WoTranslation" : "(Hiragana: i)",
-		"WoStatus" : 5,
-		"WoLgID" : 5
+		"id" : 55,
+		"word" : "い",
+		"meaning" : "(Hiragana: i)",
+		"status" : 5,
+		"id_language" : 5
 	},
 	{
-		"WoID" : 56,
-		"WoText" : "え",
-		"WoTranslation" : "(Hiragana: e)",
-		"WoStatus" : 5,
-		"WoLgID" : 5
+		"id" : 56,
+		"word" : "え",
+		"meaning" : "(Hiragana: e)",
+		"status" : 5,
+		"id_language" : 5
 	},
 	{
-		"WoID" : 57,
-		"WoText" : "す",
-		"WoTranslation" : "(Hiragana: su)",
-		"WoStatus" : 5,
-		"WoLgID" : 5
+		"id" : 57,
+		"word" : "す",
+		"meaning" : "(Hiragana: su)",
+		"status" : 5,
+		"id_language" : 5
 	},
 	{
-		"WoID" : 58,
-		"WoText" : "み",
-		"WoTranslation" : "(Hiragana: mi)",
-		"WoStatus" : 5,
-		"WoLgID" : 5
+		"id" : 58,
+		"word" : "み",
+		"meaning" : "(Hiragana: mi)",
+		"status" : 5,
+		"id_language" : 5
 	},
 	{
-		"WoID" : 59,
-		"WoText" : "ま",
-		"WoTranslation" : "(Hiragana: ma)",
-		"WoStatus" : 5,
-		"WoLgID" : 5
+		"id" : 59,
+		"word" : "ま",
+		"meaning" : "(Hiragana: ma)",
+		"status" : 5,
+		"id_language" : 5
 	},
 	{
-		"WoID" : 60,
-		"WoText" : "せ",
-		"WoTranslation" : "(Hiragana: se)",
-		"WoStatus" : 5,
-		"WoLgID" : 5
+		"id" : 60,
+		"word" : "せ",
+		"meaning" : "(Hiragana: se)",
+		"status" : 5,
+		"id_language" : 5
 	},
 	{
-		"WoID" : 61,
-		"WoText" : "ん",
-		"WoTranslation" : "(Hiragana: n)",
-		"WoStatus" : 5,
-		"WoLgID" : 5
+		"id" : 61,
+		"word" : "ん",
+		"meaning" : "(Hiragana: n)",
+		"status" : 5,
+		"id_language" : 5
 	},
 	{
-		"WoID" : 62,
-		"WoText" : "いいえ",
-		"WoTranslation" : "no / nay",
-		"WoStatus" : 1,
-		"WoLgID" : 5
+		"id" : 62,
+		"word" : "いいえ",
+		"meaning" : "no / nay",
+		"status" : 1,
+		"id_language" : 5
 	},
 	{
-		"WoID" : 63,
-		"WoText" : "すみません",
-		"WoTranslation" : "sorry / excuse me",
-		"WoStatus" : 3,
-		"WoLgID" : 5
+		"id" : 63,
+		"word" : "すみません",
+		"meaning" : "sorry / excuse me",
+		"status" : 3,
+		"id_language" : 5
 	},
 	{
-		"WoID" : 64,
-		"WoText" : "ど",
-		"WoTranslation" : "(Hiragana: do)",
-		"WoStatus" : 5,
-		"WoLgID" : 5
+		"id" : 64,
+		"word" : "ど",
+		"meaning" : "(Hiragana: do)",
+		"status" : 5,
+		"id_language" : 5
 	},
 	{
-		"WoID" : 65,
-		"WoText" : "う",
-		"WoTranslation" : "(Hiragana: u)",
-		"WoStatus" : 5,
-		"WoLgID" : 5
+		"id" : 65,
+		"word" : "う",
+		"meaning" : "(Hiragana: u)",
+		"status" : 5,
+		"id_language" : 5
 	},
 	{
-		"WoID" : 66,
-		"WoText" : "も",
-		"WoTranslation" : "(Hiragana: mo)",
-		"WoStatus" : 5,
-		"WoLgID" : 5
+		"id" : 66,
+		"word" : "も",
+		"meaning" : "(Hiragana: mo)",
+		"status" : 5,
+		"id_language" : 5
 	},
 	{
-		"WoID" : 104,
-		"WoText" : "本",
-		"WoTranslation" : "book / main / origin / present / real / true",
-		"WoStatus" : 3,
-		"WoLgID" : 5
+		"id" : 104,
+		"word" : "本",
+		"meaning" : "book / main / origin / present / real / true",
+		"status" : 3,
+		"id_language" : 5
 	},
 	{
-		"WoID" : 68,
-		"WoText" : "あ",
-		"WoTranslation" : "(Hiragana: a)",
-		"WoStatus" : 5,
-		"WoLgID" : 5
+		"id" : 68,
+		"word" : "あ",
+		"meaning" : "(Hiragana: a)",
+		"status" : 5,
+		"id_language" : 5
 	},
 	{
-		"WoID" : 69,
-		"WoText" : "り",
-		"WoTranslation" : "(Hiragana: ri)",
-		"WoStatus" : 5,
-		"WoLgID" : 5
+		"id" : 69,
+		"word" : "り",
+		"meaning" : "(Hiragana: ri)",
+		"status" : 5,
+		"id_language" : 5
 	},
 	{
-		"WoID" : 70,
-		"WoText" : "が",
-		"WoTranslation" : "(Hiragana: ga)",
-		"WoStatus" : 5,
-		"WoLgID" : 5
+		"id" : 70,
+		"word" : "が",
+		"meaning" : "(Hiragana: ga)",
+		"status" : 5,
+		"id_language" : 5
 	},
 	{
-		"WoID" : 71,
-		"WoText" : "と",
-		"WoTranslation" : "(Hiragana: to)",
-		"WoStatus" : 5,
-		"WoLgID" : 5
+		"id" : 71,
+		"word" : "と",
+		"meaning" : "(Hiragana: to)",
+		"status" : 5,
+		"id_language" : 5
 	},
 	{
-		"WoID" : 72,
-		"WoText" : "ありがとう",
-		"WoTranslation" : "thank you",
-		"WoStatus" : 1,
-		"WoLgID" : 5
+		"id" : 72,
+		"word" : "ありがとう",
+		"meaning" : "thank you",
+		"status" : 1,
+		"id_language" : 5
 	},
 	{
-		"WoID" : 73,
-		"WoText" : "ご",
-		"WoTranslation" : "(Hiragana: go)",
-		"WoStatus" : 5,
-		"WoLgID" : 5
+		"id" : 73,
+		"word" : "ご",
+		"meaning" : "(Hiragana: go)",
+		"status" : 5,
+		"id_language" : 5
 	},
 	{
-		"WoID" : 74,
-		"WoText" : "ざ",
-		"WoTranslation" : "(Hiragana: za)",
-		"WoStatus" : 5,
-		"WoLgID" : 5
+		"id" : 74,
+		"word" : "ざ",
+		"meaning" : "(Hiragana: za)",
+		"status" : 5,
+		"id_language" : 5
 	},
 	{
-		"WoID" : 75,
-		"WoText" : "ございます",
-		"WoTranslation" : "(polite) be / exist",
-		"WoStatus" : 1,
-		"WoLgID" : 5
+		"id" : 75,
+		"word" : "ございます",
+		"meaning" : "(polite) be / exist",
+		"status" : 1,
+		"id_language" : 5
 	},
 	{
-		"WoID" : 108,
-		"WoText" : "どうも",
-		"WoTranslation" : "thanks",
-		"WoStatus" : 1,
-		"WoLgID" : 5
+		"id" : 108,
+		"word" : "どうも",
+		"meaning" : "thanks",
+		"status" : 1,
+		"id_language" : 5
 	},
 	{
-		"WoID" : 77,
-		"WoText" : "た",
-		"WoTranslation" : "(Hiragana: ta)",
-		"WoStatus" : 5,
-		"WoLgID" : 5
+		"id" : 77,
+		"word" : "た",
+		"meaning" : "(Hiragana: ta)",
+		"status" : 5,
+		"id_language" : 5
 	},
 	{
-		"WoID" : 78,
-		"WoText" : "し",
-		"WoTranslation" : "(Hiragana: shi)",
-		"WoStatus" : 5,
-		"WoLgID" : 5
+		"id" : 78,
+		"word" : "し",
+		"meaning" : "(Hiragana: shi)",
+		"status" : 5,
+		"id_language" : 5
 	},
 	{
-		"WoID" : 79,
-		"WoText" : "て",
-		"WoTranslation" : "(Hiragana: te)",
-		"WoStatus" : 5,
-		"WoLgID" : 5
+		"id" : 79,
+		"word" : "て",
+		"meaning" : "(Hiragana: te)",
+		"status" : 5,
+		"id_language" : 5
 	},
 	{
-		"WoID" : 109,
-		"WoText" : "来ました",
-		"WoTranslation" : "came",
-		"WoStatus" : 1,
-		"WoLgID" : 5
+		"id" : 109,
+		"word" : "来ました",
+		"meaning" : "came",
+		"status" : 1,
+		"id_language" : 5
 	},
 	{
-		"WoID" : 83,
-		"WoText" : "日本",
-		"WoTranslation" : "Japan",
-		"WoStatus" : 1,
-		"WoLgID" : 5
+		"id" : 83,
+		"word" : "日本",
+		"meaning" : "Japan",
+		"status" : 1,
+		"id_language" : 5
 	},
 	{
-		"WoID" : 85,
-		"WoText" : "日本語",
-		"WoTranslation" : "Japanese lang.",
-		"WoStatus" : 1,
-		"WoLgID" : 5
+		"id" : 85,
+		"word" : "日本語",
+		"meaning" : "Japanese lang.",
+		"status" : 1,
+		"id_language" : 5
 	},
 	{
-		"WoID" : 86,
-		"WoText" : "を",
-		"WoTranslation" : "(Hiragana: wo), (direct object)",
-		"WoStatus" : 5,
-		"WoLgID" : 5
+		"id" : 86,
+		"word" : "を",
+		"meaning" : "(Hiragana: wo), (direct object)",
+		"status" : 5,
+		"id_language" : 5
 	},
 	{
-		"WoID" : 87,
-		"WoText" : "か",
-		"WoTranslation" : "(Hiragana: ka) / (question)",
-		"WoStatus" : 5,
-		"WoLgID" : 5
+		"id" : 87,
+		"word" : "か",
+		"meaning" : "(Hiragana: ka) / (question)",
+		"status" : 5,
+		"id_language" : 5
 	},
 	{
-		"WoID" : 88,
-		"WoText" : "ます",
-		"WoTranslation" : "(respect)",
-		"WoStatus" : 1,
-		"WoLgID" : 5
+		"id" : 88,
+		"word" : "ます",
+		"meaning" : "(respect)",
+		"status" : 1,
+		"id_language" : 5
 	},
 	{
-		"WoID" : 89,
-		"WoText" : "話し",
-		"WoTranslation" : "talk / speech",
-		"WoStatus" : 1,
-		"WoLgID" : 5
+		"id" : 89,
+		"word" : "話し",
+		"meaning" : "talk / speech",
+		"status" : 1,
+		"id_language" : 5
 	},
 	{
-		"WoID" : 105,
-		"WoText" : "語",
-		"WoTranslation" : "language / speech / word",
-		"WoStatus" : 4,
-		"WoLgID" : 5
+		"id" : 105,
+		"word" : "語",
+		"meaning" : "language / speech / word",
+		"status" : 4,
+		"id_language" : 5
 	},
 	{
-		"WoID" : 106,
-		"WoText" : "話",
-		"WoTranslation" : "tale / talk",
-		"WoStatus" : 3,
-		"WoLgID" : 5
+		"id" : 106,
+		"word" : "話",
+		"meaning" : "tale / talk",
+		"status" : 3,
+		"id_language" : 5
 	},
 	{
-		"WoID" : 92,
-		"WoText" : "少し",
-		"WoTranslation" : "small quantity / little / few",
-		"WoStatus" : 1,
-		"WoLgID" : 5
+		"id" : 92,
+		"word" : "少し",
+		"meaning" : "small quantity / little / few",
+		"status" : 1,
+		"id_language" : 5
 	},
 	{
-		"WoID" : 93,
-		"WoText" : "少",
-		"WoTranslation" : "few / little",
-		"WoStatus" : 1,
-		"WoLgID" : 5
+		"id" : 93,
+		"word" : "少",
+		"meaning" : "few / little",
+		"status" : 1,
+		"id_language" : 5
 	},
 	{
-		"WoID" : 94,
-		"WoText" : "私",
-		"WoTranslation" : "I / me",
-		"WoStatus" : 1,
-		"WoLgID" : 5
+		"id" : 94,
+		"word" : "私",
+		"meaning" : "I / me",
+		"status" : 1,
+		"id_language" : 5
 	},
 	{
-		"WoID" : 96,
-		"WoText" : "ギ",
-		"WoTranslation" : "(Katakana: gi)",
-		"WoStatus" : 5,
-		"WoLgID" : 5
+		"id" : 96,
+		"word" : "ギ",
+		"meaning" : "(Katakana: gi)",
+		"status" : 5,
+		"id_language" : 5
 	},
 	{
-		"WoID" : 97,
-		"WoText" : "イギリス",
-		"WoTranslation" : "Great Britain / United Kingdom",
-		"WoStatus" : 1,
-		"WoLgID" : 5
+		"id" : 97,
+		"word" : "イギリス",
+		"meaning" : "Great Britain / United Kingdom",
+		"status" : 1,
+		"id_language" : 5
 	},
 	{
-		"WoID" : 98,
-		"WoText" : "イ",
-		"WoTranslation" : "(Katakana: i)",
-		"WoStatus" : 5,
-		"WoLgID" : 5
+		"id" : 98,
+		"word" : "イ",
+		"meaning" : "(Katakana: i)",
+		"status" : 5,
+		"id_language" : 5
 	},
 	{
-		"WoID" : 99,
-		"WoText" : "リ",
-		"WoTranslation" : "(Katakana: ri)",
-		"WoStatus" : 5,
-		"WoLgID" : 5
+		"id" : 99,
+		"word" : "リ",
+		"meaning" : "(Katakana: ri)",
+		"status" : 5,
+		"id_language" : 5
 	},
 	{
-		"WoID" : 100,
-		"WoText" : "ス",
-		"WoTranslation" : "(Katakana: su)",
-		"WoStatus" : 5,
-		"WoLgID" : 5
+		"id" : 100,
+		"word" : "ス",
+		"meaning" : "(Katakana: su)",
+		"status" : 5,
+		"id_language" : 5
 	},
 	{
-		"WoID" : 101,
-		"WoText" : "ら",
-		"WoTranslation" : "(Hiragana: ra)",
-		"WoStatus" : 5,
-		"WoLgID" : 5
+		"id" : 101,
+		"word" : "ら",
+		"meaning" : "(Hiragana: ra)",
+		"status" : 5,
+		"id_language" : 5
 	},
 	{
-		"WoID" : 102,
-		"WoText" : "から",
-		"WoTranslation" : "from",
-		"WoStatus" : 1,
-		"WoLgID" : 5
+		"id" : 102,
+		"word" : "から",
+		"meaning" : "from",
+		"status" : 1,
+		"id_language" : 5
 	},
 	{
-		"WoID" : 107,
-		"WoText" : "来",
-		"WoTranslation" : "become / cause / come / due / next",
-		"WoStatus" : 1,
-		"WoLgID" : 5
+		"id" : 107,
+		"word" : "来",
+		"meaning" : "become / cause / come / due / next",
+		"status" : 1,
+		"id_language" : 5
 	},
 	{
-		"WoID" : 110,
-		"WoText" : "wie froh",
-		"WoTranslation" : "how happy",
-		"WoStatus" : 1,
-		"WoLgID" : 3
+		"id" : 110,
+		"word" : "wie froh",
+		"meaning" : "how happy",
+		"status" : 1,
+		"id_language" : 3
 	},
 	{
-		"WoID" : 111,
-		"WoText" : "wie froh bin",
-		"WoTranslation" : "how happy am",
-		"WoStatus" : 1,
-		"WoLgID" : 3
+		"id" : 111,
+		"word" : "wie froh bin",
+		"meaning" : "how happy am",
+		"status" : 1,
+		"id_language" : 3
 	},
 	{
-		"WoID" : 112,
-		"WoText" : "wie froh bin ich",
-		"WoTranslation" : "how happy I am",
-		"WoStatus" : 1,
-		"WoLgID" : 3
+		"id" : 112,
+		"word" : "wie froh bin ich",
+		"meaning" : "how happy I am",
+		"status" : 1,
+		"id_language" : 3
 	},
 	{
-		"WoID" : 113,
-		"WoText" : "wie froh bin ich, daß",
-		"WoTranslation" : "how happy I am that",
-		"WoStatus" : 1,
-		"WoLgID" : 3
+		"id" : 113,
+		"word" : "wie froh bin ich, daß",
+		"meaning" : "how happy I am that",
+		"status" : 1,
+		"id_language" : 3
 	},
 	{
-		"WoID" : 114,
-		"WoText" : "wie froh bin ich, daß ich",
-		"WoTranslation" : "how happy I am that I",
-		"WoStatus" : 1,
-		"WoLgID" : 3
+		"id" : 114,
+		"word" : "wie froh bin ich, daß ich",
+		"meaning" : "how happy I am that I",
+		"status" : 1,
+		"id_language" : 3
 	},
 	{
-		"WoID" : 115,
-		"WoText" : "wie froh bin ich, daß ich weg",
-		"WoTranslation" : "how happy I am that I (am) gone",
-		"WoStatus" : 1,
-		"WoLgID" : 3
+		"id" : 115,
+		"word" : "wie froh bin ich, daß ich weg",
+		"meaning" : "how happy I am that I (am) gone",
+		"status" : 1,
+		"id_language" : 3
 	},
 	{
-		"WoID" : 116,
-		"WoText" : "wie froh bin ich, daß ich weg bin",
-		"WoTranslation" : "how happy I am that I am gone",
-		"WoStatus" : 1,
-		"WoLgID" : 3
+		"id" : 116,
+		"word" : "wie froh bin ich, daß ich weg bin",
+		"meaning" : "how happy I am that I am gone",
+		"status" : 1,
+		"id_language" : 3
 	},
 	{
-		"WoID" : 117,
-		"WoText" : "waren nicht meine übrigen Verbindungen recht ausgesucht vom Schicksal",
-		"WoTranslation" : "have not other attachments been specially appointed by fate",
-		"WoStatus" : 1,
-		"WoLgID" : 3
+		"id" : 117,
+		"word" : "waren nicht meine übrigen Verbindungen recht ausgesucht vom Schicksal",
+		"meaning" : "have not other attachments been specially appointed by fate",
+		"status" : 1,
+		"id_language" : 3
 	},
 	{
-		"WoID" : 118,
-		"WoText" : "um ein Herz wie das meine zu ängstigen",
-		"WoTranslation" : "to torment a head like mine",
-		"WoStatus" : 1,
-		"WoLgID" : 3
+		"id" : 118,
+		"word" : "um ein Herz wie das meine zu ängstigen",
+		"meaning" : "to torment a head like mine",
+		"status" : 1,
+		"id_language" : 3
 	},
 	{
-		"WoID" : 119,
-		"WoText" : "Waren",
-		"WoTranslation" : "were / goods",
-		"WoStatus" : 99,
-		"WoLgID" : 3
+		"id" : 119,
+		"word" : "Waren",
+		"meaning" : "were / goods",
+		"status" : 99,
+		"id_language" : 3
 	},
 	{
-		"WoID" : 120,
-		"WoText" : "nicht",
-		"WoTranslation" : "not",
-		"WoStatus" : 99,
-		"WoLgID" : 3
+		"id" : 120,
+		"word" : "nicht",
+		"meaning" : "not",
+		"status" : 99,
+		"id_language" : 3
 	},
 	{
-		"WoID" : 121,
-		"WoText" : "meine",
-		"WoTranslation" : "my",
-		"WoStatus" : 99,
-		"WoLgID" : 3
+		"id" : 121,
+		"word" : "meine",
+		"meaning" : "my",
+		"status" : 99,
+		"id_language" : 3
 	},
 	{
-		"WoID" : 122,
-		"WoText" : "übrigen",
-		"WoTranslation" : "others",
-		"WoStatus" : 99,
-		"WoLgID" : 3
+		"id" : 122,
+		"word" : "übrigen",
+		"meaning" : "others",
+		"status" : 99,
+		"id_language" : 3
 	},
 	{
-		"WoID" : 123,
-		"WoText" : "um",
-		"WoTranslation" : "to",
-		"WoStatus" : 99,
-		"WoLgID" : 3
+		"id" : 123,
+		"word" : "um",
+		"meaning" : "to",
+		"status" : 99,
+		"id_language" : 3
 	},
 	{
-		"WoID" : 124,
-		"WoText" : "ein",
-		"WoTranslation" : "a / one",
-		"WoStatus" : 99,
-		"WoLgID" : 3
+		"id" : 124,
+		"word" : "ein",
+		"meaning" : "a / one",
+		"status" : 99,
+		"id_language" : 3
 	},
 	{
-		"WoID" : 125,
-		"WoText" : "Herz",
-		"WoTranslation" : "heart",
-		"WoStatus" : 99,
-		"WoLgID" : 3
+		"id" : 125,
+		"word" : "Herz",
+		"meaning" : "heart",
+		"status" : 99,
+		"id_language" : 3
 	},
 	{
-		"WoID" : 126,
-		"WoText" : "Leonore",
-		"WoTranslation" : "*",
-		"WoStatus" : 98,
-		"WoLgID" : 3
+		"id" : 126,
+		"word" : "Leonore",
+		"meaning" : "*",
+		"status" : 98,
+		"id_language" : 3
 	},
 	{
-		"WoID" : 127,
-		"WoText" : "좋은",
-		"WoTranslation" : "good",
-		"WoStatus" : 1,
-		"WoLgID" : 6
+		"id" : 127,
+		"word" : "좋은",
+		"meaning" : "good",
+		"status" : 1,
+		"id_language" : 6
 	},
 	{
-		"WoID" : 128,
-		"WoText" : "아침",
-		"WoTranslation" : "morning",
-		"WoStatus" : 1,
-		"WoLgID" : 6
+		"id" : 128,
+		"word" : "아침",
+		"meaning" : "morning",
+		"status" : 1,
+		"id_language" : 6
 	},
 	{
-		"WoID" : 129,
-		"WoText" : "좋은 아침",
-		"WoTranslation" : "good morning",
-		"WoStatus" : 1,
-		"WoLgID" : 6
+		"id" : 129,
+		"word" : "좋은 아침",
+		"meaning" : "good morning",
+		"status" : 1,
+		"id_language" : 6
 	},
 	{
-		"WoID" : 130,
-		"WoText" : "안녕하세요",
-		"WoTranslation" : "how are you / hello / good day",
-		"WoStatus" : 1,
-		"WoLgID" : 6
+		"id" : 130,
+		"word" : "안녕하세요",
+		"meaning" : "how are you / hello / good day",
+		"status" : 1,
+		"id_language" : 6
 	},
 	{
-		"WoID" : 131,
-		"WoText" : "잘지냈어요",
-		"WoTranslation" : "how are you",
-		"WoStatus" : 1,
-		"WoLgID" : 6
+		"id" : 131,
+		"word" : "잘지냈어요",
+		"meaning" : "how are you",
+		"status" : 1,
+		"id_language" : 6
 	},
 	{
-		"WoID" : 132,
-		"WoText" : "잘자요",
-		"WoTranslation" : "good night",
-		"WoStatus" : 1,
-		"WoLgID" : 6
+		"id" : 132,
+		"word" : "잘자요",
+		"meaning" : "good night",
+		"status" : 1,
+		"id_language" : 6
 	},
 	{
-		"WoID" : 133,
-		"WoText" : "잘가요",
-		"WoTranslation" : "good bye",
-		"WoStatus" : 1,
-		"WoLgID" : 6
+		"id" : 133,
+		"word" : "잘가요",
+		"meaning" : "good bye",
+		"status" : 1,
+		"id_language" : 6
 	},
 	{
-		"WoID" : 134,
-		"WoText" : "네",
-		"WoTranslation" : "four / yes / ok / you(r)",
-		"WoStatus" : 1,
-		"WoLgID" : 6
+		"id" : 134,
+		"word" : "네",
+		"meaning" : "four / yes / ok / you(r)",
+		"status" : 1,
+		"id_language" : 6
 	},
 	{
-		"WoID" : 135,
-		"WoText" : "그럼요",
-		"WoTranslation" : "by all means / without fail / certainly / definitely",
-		"WoStatus" : 1,
-		"WoLgID" : 6
+		"id" : 135,
+		"word" : "그럼요",
+		"meaning" : "by all means / without fail / certainly / definitely",
+		"status" : 1,
+		"id_language" : 6
 	},
 	{
-		"WoID" : 136,
-		"WoText" : "ดี",
-		"WoTranslation" : "good / is good",
-		"WoStatus" : 1,
-		"WoLgID" : 7
+		"id" : 136,
+		"word" : "ดี",
+		"meaning" : "good / is good",
+		"status" : 1,
+		"id_language" : 7
 	},
 	{
-		"WoID" : 137,
-		"WoText" : "สวัส",
-		"WoTranslation" : "blessing / good fortune",
-		"WoStatus" : 1,
-		"WoLgID" : 7
+		"id" : 137,
+		"word" : "สวัส",
+		"meaning" : "blessing / good fortune",
+		"status" : 1,
+		"id_language" : 7
 	},
 	{
-		"WoID" : 139,
-		"WoText" : "ครับ",
-		"WoTranslation" : "(polite M)",
-		"WoStatus" : 1,
-		"WoLgID" : 7
+		"id" : 139,
+		"word" : "ครับ",
+		"meaning" : "(polite M)",
+		"status" : 1,
+		"id_language" : 7
 	},
 	{
-		"WoID" : 140,
-		"WoText" : "ค่ะ",
-		"WoTranslation" : "(polite, F)",
-		"WoStatus" : 1,
-		"WoLgID" : 7
+		"id" : 140,
+		"word" : "ค่ะ",
+		"meaning" : "(polite, F)",
+		"status" : 1,
+		"id_language" : 7
 	},
 	{
-		"WoID" : 141,
-		"WoText" : "สวัสดีครับ",
-		"WoTranslation" : "hello (M) / goodbye (M)",
-		"WoStatus" : 1,
-		"WoLgID" : 7
+		"id" : 141,
+		"word" : "สวัสดีครับ",
+		"meaning" : "hello (M) / goodbye (M)",
+		"status" : 1,
+		"id_language" : 7
 	},
 	{
-		"WoID" : 142,
-		"WoText" : "สวัสดีค่ะ",
-		"WoTranslation" : "hello (F) / goodbye (F)",
-		"WoStatus" : 1,
-		"WoLgID" : 7
+		"id" : 142,
+		"word" : "สวัสดีค่ะ",
+		"meaning" : "hello (F) / goodbye (F)",
+		"status" : 1,
+		"id_language" : 7
 	},
 	{
-		"WoID" : 145,
-		"WoText" : "วัสดี",
-		"WoTranslation" : "hi / hey / (inf. abbrev.)",
-		"WoStatus" : 1,
-		"WoLgID" : 7
+		"id" : 145,
+		"word" : "วัสดี",
+		"meaning" : "hi / hey / (inf. abbrev.)",
+		"status" : 1,
+		"id_language" : 7
 	},
 	{
-		"WoID" : 146,
-		"WoText" : "vous",
-		"WoTranslation" : "you / you all",
-		"WoStatus" : 5,
-		"WoLgID" : 1
+		"id" : 146,
+		"word" : "vous",
+		"meaning" : "you / you all",
+		"status" : 5,
+		"id_language" : 1
 	},
 	{
-		"WoID" : 147,
-		"WoText" : "fait",
-		"WoTranslation" : "made / done / make / fact / occurrence",
-		"WoStatus" : 4,
-		"WoLgID" : 1
+		"id" : 147,
+		"word" : "fait",
+		"meaning" : "made / done / make / fact / occurrence",
+		"status" : 4,
+		"id_language" : 1
 	},
 	{
-		"WoID" : 148,
-		"WoText" : "bonne",
-		"WoTranslation" : "good",
-		"WoStatus" : 2,
-		"WoLgID" : 1
+		"id" : 148,
+		"word" : "bonne",
+		"meaning" : "good",
+		"status" : 2,
+		"id_language" : 1
 	},
 	{
-		"WoID" : 149,
-		"WoText" : "ai",
-		"WoTranslation" : "have",
-		"WoStatus" : 3,
-		"WoLgID" : 1
+		"id" : 149,
+		"word" : "ai",
+		"meaning" : "have",
+		"status" : 3,
+		"id_language" : 1
 	},
 	{
-		"WoID" : 150,
-		"WoText" : "avez",
-		"WoTranslation" : "have",
-		"WoStatus" : 4,
-		"WoLgID" : 1
+		"id" : 150,
+		"word" : "avez",
+		"meaning" : "have",
+		"status" : 4,
+		"id_language" : 1
 	},
 	{
-		"WoID" : 151,
-		"WoText" : "mon",
-		"WoTranslation" : "my",
-		"WoStatus" : 4,
-		"WoLgID" : 1
+		"id" : 151,
+		"word" : "mon",
+		"meaning" : "my",
+		"status" : 4,
+		"id_language" : 1
 	},
 	{
-		"WoID" : 152,
-		"WoText" : "טוב",
-		"WoTranslation" : "good",
-		"WoStatus" : 1,
-		"WoLgID" : 8
+		"id" : 152,
+		"word" : "טוב",
+		"meaning" : "good",
+		"status" : 1,
+		"id_language" : 8
 	},
 	{
-		"WoID" : 153,
-		"WoText" : "בוקר",
-		"WoTranslation" : "morning",
-		"WoStatus" : 1,
-		"WoLgID" : 8
+		"id" : 153,
+		"word" : "בוקר",
+		"meaning" : "morning",
+		"status" : 1,
+		"id_language" : 8
 	},
 	{
-		"WoID" : 154,
-		"WoText" : "ערב",
-		"WoTranslation" : "evening",
-		"WoStatus" : 1,
-		"WoLgID" : 8
+		"id" : 154,
+		"word" : "ערב",
+		"meaning" : "evening",
+		"status" : 1,
+		"id_language" : 8
 	},
 	{
-		"WoID" : 155,
-		"WoText" : "לילה",
-		"WoTranslation" : "night",
-		"WoStatus" : 1,
-		"WoLgID" : 8
+		"id" : 155,
+		"word" : "לילה",
+		"meaning" : "night",
+		"status" : 1,
+		"id_language" : 8
 	},
 	{
-		"WoID" : 156,
-		"WoText" : "להתראות",
-		"WoTranslation" : "good bye",
-		"WoStatus" : 1,
-		"WoLgID" : 8
+		"id" : 156,
+		"word" : "להתראות",
+		"meaning" : "good bye",
+		"status" : 1,
+		"id_language" : 8
 	},
 	{
-		"WoID" : 157,
-		"WoText" : "טובים",
-		"WoTranslation" : "good",
-		"WoStatus" : 1,
-		"WoLgID" : 8
+		"id" : 157,
+		"word" : "טובים",
+		"meaning" : "good",
+		"status" : 1,
+		"id_language" : 8
 	},
 	{
-		"WoID" : 158,
-		"WoText" : "צהריים",
-		"WoTranslation" : "noon",
-		"WoStatus" : 1,
-		"WoLgID" : 8
+		"id" : 158,
+		"word" : "צהריים",
+		"meaning" : "noon",
+		"status" : 1,
+		"id_language" : 8
 	},
 	{
-		"WoID" : 159,
-		"WoText" : "אחר",
-		"WoTranslation" : "after / other",
-		"WoStatus" : 1,
-		"WoLgID" : 8
+		"id" : 159,
+		"word" : "אחר",
+		"meaning" : "after / other",
+		"status" : 1,
+		"id_language" : 8
 	},
 	{
-		"WoID" : 160,
-		"WoText" : "בוקר טוב",
-		"WoTranslation" : "good morning",
-		"WoStatus" : 1,
-		"WoLgID" : 8
+		"id" : 160,
+		"word" : "בוקר טוב",
+		"meaning" : "good morning",
+		"status" : 1,
+		"id_language" : 8
 	},
 	{
-		"WoID" : 161,
-		"WoText" : "אחר צהריים טובים",
-		"WoTranslation" : "good afternoon",
-		"WoStatus" : 1,
-		"WoLgID" : 8
+		"id" : 161,
+		"word" : "אחר צהריים טובים",
+		"meaning" : "good afternoon",
+		"status" : 1,
+		"id_language" : 8
 	},
 	{
-		"WoID" : 162,
-		"WoText" : "ערב טוב",
-		"WoTranslation" : "good evening",
-		"WoStatus" : 1,
-		"WoLgID" : 8
+		"id" : 162,
+		"word" : "ערב טוב",
+		"meaning" : "good evening",
+		"status" : 1,
+		"id_language" : 8
 	},
 	{
-		"WoID" : 163,
-		"WoText" : "לילה טוב",
-		"WoTranslation" : "good night",
-		"WoStatus" : 1,
-		"WoLgID" : 8
+		"id" : 163,
+		"word" : "לילה טוב",
+		"meaning" : "good night",
+		"status" : 1,
+		"id_language" : 8
 	},
 	{
-		"WoID" : 164,
-		"WoText" : "אחר צהריים",
-		"WoTranslation" : "afternoon",
-		"WoStatus" : 1,
-		"WoLgID" : 8
+		"id" : 164,
+		"word" : "אחר צהריים",
+		"meaning" : "afternoon",
+		"status" : 1,
+		"id_language" : 8
 	},
 	{
-		"WoID" : 165,
-		"WoText" : "Oui",
-		"WoTranslation" : "yes",
-		"WoStatus" : 5,
-		"WoLgID" : 1
+		"id" : 165,
+		"word" : "Oui",
+		"meaning" : "yes",
+		"status" : 5,
+		"id_language" : 1
 	},
 	{
-		"WoID" : 166,
-		"WoText" : "On",
-		"WoTranslation" : "someone / somebody / you / one / we",
-		"WoStatus" : 4,
-		"WoLgID" : 1
+		"id" : 166,
+		"word" : "On",
+		"meaning" : "someone / somebody / you / one / we",
+		"status" : 4,
+		"id_language" : 1
 	},
 	{
-		"WoID" : 167,
-		"WoText" : "peut",
-		"WoTranslation" : "can / may",
-		"WoStatus" : 5,
-		"WoLgID" : 1
+		"id" : 167,
+		"word" : "peut",
+		"meaning" : "can / may",
+		"status" : 5,
+		"id_language" : 1
 	},
 	{
-		"WoID" : 168,
-		"WoText" : "ça",
-		"WoTranslation" : "that / this / it",
-		"WoStatus" : 4,
-		"WoLgID" : 1
+		"id" : 168,
+		"word" : "ça",
+		"meaning" : "that / this / it",
+		"status" : 4,
+		"id_language" : 1
 	},
 	{
-		"WoID" : 169,
-		"WoText" : "comme",
-		"WoTranslation" : "as / just as / like / how",
-		"WoStatus" : 3,
-		"WoLgID" : 1
+		"id" : 169,
+		"word" : "comme",
+		"meaning" : "as / just as / like / how",
+		"status" : 3,
+		"id_language" : 1
 	},
 	{
-		"WoID" : 171,
-		"WoText" : "longtemps",
-		"WoTranslation" : "long time / long while / long",
-		"WoStatus" : 5,
-		"WoLgID" : 1
+		"id" : 171,
+		"word" : "longtemps",
+		"meaning" : "long time / long while / long",
+		"status" : 5,
+		"id_language" : 1
 	},
 	{
-		"WoID" : 172,
-		"WoText" : "là",
-		"WoTranslation" : "there",
-		"WoStatus" : 1,
-		"WoLgID" : 1
+		"id" : 172,
+		"word" : "là",
+		"meaning" : "there",
+		"status" : 1,
+		"id_language" : 1
 	},
 	{
-		"WoID" : 173,
-		"WoText" : "une",
-		"WoTranslation" : "a / an / one / front page",
-		"WoStatus" : 5,
-		"WoLgID" : 1
+		"id" : 173,
+		"word" : "une",
+		"meaning" : "a / an / one / front page",
+		"status" : 5,
+		"id_language" : 1
 	},
 	{
-		"WoID" : 174,
-		"WoText" : "j",
-		"WoTranslation" : "I",
-		"WoStatus" : 99,
-		"WoLgID" : 1
+		"id" : 174,
+		"word" : "j",
+		"meaning" : "I",
+		"status" : 99,
+		"id_language" : 1
 	},
 	{
-		"WoID" : 175,
-		"WoText" : "premier",
-		"WoTranslation" : "first / primary / prime / initial",
-		"WoStatus" : 4,
-		"WoLgID" : 1
+		"id" : 175,
+		"word" : "premier",
+		"meaning" : "first / primary / prime / initial",
+		"status" : 4,
+		"id_language" : 1
 	},
 	{
-		"WoID" : 176,
-		"WoText" : "y",
-		"WoTranslation" : "there / here / in",
-		"WoStatus" : 2,
-		"WoLgID" : 1
+		"id" : 176,
+		"word" : "y",
+		"meaning" : "there / here / in",
+		"status" : 2,
+		"id_language" : 1
 	},
 	{
-		"WoID" : 177,
-		"WoText" : "a",
-		"WoTranslation" : "have / has",
-		"WoStatus" : 2,
-		"WoLgID" : 1
+		"id" : 177,
+		"word" : "a",
+		"meaning" : "have / has",
+		"status" : 2,
+		"id_language" : 1
 	},
 	{
-		"WoID" : 178,
-		"WoText" : "action",
-		"WoTranslation" : "action / deed",
-		"WoStatus" : 2,
-		"WoLgID" : 1
+		"id" : 178,
+		"word" : "action",
+		"meaning" : "action / deed",
+		"status" : 2,
+		"id_language" : 1
 	},
 	{
-		"WoID" : 179,
-		"WoText" : "don",
-		"WoTranslation" : "donation",
-		"WoStatus" : 1,
-		"WoLgID" : 1
+		"id" : 179,
+		"word" : "don",
+		"meaning" : "donation",
+		"status" : 1,
+		"id_language" : 1
 	},
 	{
-		"WoID" : 180,
-		"WoText" : "du",
-		"WoTranslation" : "of / from / some",
-		"WoStatus" : 1,
-		"WoLgID" : 1
+		"id" : 180,
+		"word" : "du",
+		"meaning" : "of / from / some",
+		"status" : 1,
+		"id_language" : 1
 	},
 	{
-		"WoID" : 181,
-		"WoText" : "sang",
-		"WoTranslation" : "blood",
-		"WoStatus" : 1,
-		"WoLgID" : 1
+		"id" : 181,
+		"word" : "sang",
+		"meaning" : "blood",
+		"status" : 1,
+		"id_language" : 1
 	},
 	{
-		"WoID" : 182,
-		"WoText" : "ce",
-		"WoTranslation" : "this / that / it",
-		"WoStatus" : 1,
-		"WoLgID" : 1
+		"id" : 182,
+		"word" : "ce",
+		"meaning" : "this / that / it",
+		"status" : 1,
+		"id_language" : 1
 	},
 	{
-		"WoID" : 183,
-		"WoText" : "que",
-		"WoTranslation" : "that / how / so that / so",
-		"WoStatus" : 1,
-		"WoLgID" : 1
+		"id" : 183,
+		"word" : "que",
+		"meaning" : "that / how / so that / so",
+		"status" : 1,
+		"id_language" : 1
 	},
 	{
-		"WoID" : 184,
-		"WoText" : "他",
-		"WoTranslation" : "he",
-		"WoStatus" : 1,
-		"WoLgID" : 2
+		"id" : 184,
+		"word" : "他",
+		"meaning" : "he",
+		"status" : 1,
+		"id_language" : 2
 	},
 	{
-		"WoID" : 185,
-		"WoText" : "看见",
-		"WoTranslation" : "see / catch sight",
-		"WoStatus" : 1,
-		"WoLgID" : 2
+		"id" : 185,
+		"word" : "看见",
+		"meaning" : "see / catch sight",
+		"status" : 1,
+		"id_language" : 2
 	},
 	{
-		"WoID" : 186,
-		"WoText" : "前面",
-		"WoTranslation" : "ahead / front",
-		"WoStatus" : 1,
-		"WoLgID" : 2
+		"id" : 186,
+		"word" : "前面",
+		"meaning" : "ahead / front",
+		"status" : 1,
+		"id_language" : 2
 	},
 	{
-		"WoID" : 187,
-		"WoText" : "有",
-		"WoTranslation" : "have / occur",
-		"WoStatus" : 1,
-		"WoLgID" : 2
+		"id" : 187,
+		"word" : "有",
+		"meaning" : "have / occur",
+		"status" : 1,
+		"id_language" : 2
 	},
 	{
-		"WoID" : 188,
-		"WoText" : "只",
-		"WoTranslation" : "(MW) / only",
-		"WoStatus" : 1,
-		"WoLgID" : 2
+		"id" : 188,
+		"word" : "只",
+		"meaning" : "(MW) / only",
+		"status" : 1,
+		"id_language" : 2
 	},
 	{
-		"WoID" : 189,
-		"WoText" : "黑色",
-		"WoTranslation" : "black color",
-		"WoStatus" : 1,
-		"WoLgID" : 2
+		"id" : 189,
+		"word" : "黑色",
+		"meaning" : "black color",
+		"status" : 1,
+		"id_language" : 2
 	},
 	{
-		"WoID" : 190,
-		"WoText" : "的",
-		"WoTranslation" : "(Part.) / 's",
-		"WoStatus" : 1,
-		"WoLgID" : 2
+		"id" : 190,
+		"word" : "的",
+		"meaning" : "(Part.) / 's",
+		"status" : 1,
+		"id_language" : 2
 	},
 	{
-		"WoID" : 191,
-		"WoText" : "大",
-		"WoTranslation" : "big / strong",
-		"WoStatus" : 1,
-		"WoLgID" : 2
+		"id" : 191,
+		"word" : "大",
+		"meaning" : "big / strong",
+		"status" : 1,
+		"id_language" : 2
 	},
 	{
-		"WoID" : 192,
-		"WoText" : "狗",
-		"WoTranslation" : "dog",
-		"WoStatus" : 1,
-		"WoLgID" : 2
+		"id" : 192,
+		"word" : "狗",
+		"meaning" : "dog",
+		"status" : 1,
+		"id_language" : 2
 	},
 	{
-		"WoID" : 193,
-		"WoText" : "看起来",
-		"WoTranslation" : "seems / appears / looks as",
-		"WoStatus" : 1,
-		"WoLgID" : 2
+		"id" : 193,
+		"word" : "看起来",
+		"meaning" : "seems / appears / looks as",
+		"status" : 1,
+		"id_language" : 2
 	},
 	{
-		"WoID" : 194,
-		"WoText" : "很",
-		"WoTranslation" : "very",
-		"WoStatus" : 1,
-		"WoLgID" : 2
+		"id" : 194,
+		"word" : "很",
+		"meaning" : "very",
+		"status" : 1,
+		"id_language" : 2
 	},
 	{
-		"WoID" : 195,
-		"WoText" : "凶",
-		"WoTranslation" : "ferocious / terrible",
-		"WoStatus" : 1,
-		"WoLgID" : 2
+		"id" : 195,
+		"word" : "凶",
+		"meaning" : "ferocious / terrible",
+		"status" : 1,
+		"id_language" : 2
 	},
 	{
-		"WoID" : 196,
-		"WoText" : "非常",
-		"WoTranslation" : "exceptional / very",
-		"WoStatus" : 1,
-		"WoLgID" : 2
+		"id" : 196,
+		"word" : "非常",
+		"meaning" : "exceptional / very",
+		"status" : 1,
+		"id_language" : 2
 	},
 	{
-		"WoID" : 197,
-		"WoText" : "害怕",
-		"WoTranslation" : "be afraid",
-		"WoStatus" : 1,
-		"WoLgID" : 2
+		"id" : 197,
+		"word" : "害怕",
+		"meaning" : "be afraid",
+		"status" : 1,
+		"id_language" : 2
 	},
 	{
-		"WoID" : 198,
-		"WoText" : "不",
-		"WoTranslation" : "not",
-		"WoStatus" : 1,
-		"WoLgID" : 2
+		"id" : 198,
+		"word" : "不",
+		"meaning" : "not",
+		"status" : 1,
+		"id_language" : 2
 	},
 	{
-		"WoID" : 199,
-		"WoText" : "敢",
-		"WoTranslation" : "dare",
-		"WoStatus" : 1,
-		"WoLgID" : 2
+		"id" : 199,
+		"word" : "敢",
+		"meaning" : "dare",
+		"status" : 1,
+		"id_language" : 2
 	},
 	{
-		"WoID" : 200,
-		"WoText" : "往前",
-		"WoTranslation" : "go forward / move ahead",
-		"WoStatus" : 1,
-		"WoLgID" : 2
+		"id" : 200,
+		"word" : "往前",
+		"meaning" : "go forward / move ahead",
+		"status" : 1,
+		"id_language" : 2
 	},
 	{
-		"WoID" : 201,
-		"WoText" : "旁边",
-		"WoTranslation" : "side / near by position/ right by",
-		"WoStatus" : 1,
-		"WoLgID" : 2
+		"id" : 201,
+		"word" : "旁边",
+		"meaning" : "side / near by position/ right by",
+		"status" : 1,
+		"id_language" : 2
 	},
 	{
-		"WoID" : 202,
-		"WoText" : "站",
-		"WoTranslation" : "stand",
-		"WoStatus" : 1,
-		"WoLgID" : 2
+		"id" : 202,
+		"word" : "站",
+		"meaning" : "stand",
+		"status" : 1,
+		"id_language" : 2
 	},
 	{
-		"WoID" : 203,
-		"WoText" : "着",
-		"WoTranslation" : "(there) / (cont.)",
-		"WoStatus" : 1,
-		"WoLgID" : 2
+		"id" : 203,
+		"word" : "着",
+		"meaning" : "(there) / (cont.)",
+		"status" : 1,
+		"id_language" : 2
 	},
 	{
-		"WoID" : 204,
-		"WoText" : "女人",
-		"WoTranslation" : "woman",
-		"WoStatus" : 2,
-		"WoLgID" : 2
+		"id" : 204,
+		"word" : "女人",
+		"meaning" : "woman",
+		"status" : 2,
+		"id_language" : 2
 	},
 	{
-		"WoID" : 205,
-		"WoText" : "问",
-		"WoTranslation" : "ask",
-		"WoStatus" : 1,
-		"WoLgID" : 2
+		"id" : 205,
+		"word" : "问",
+		"meaning" : "ask",
+		"status" : 1,
+		"id_language" : 2
 	},
 	{
-		"WoID" : 206,
-		"WoText" : "她",
-		"WoTranslation" : "she / her",
-		"WoStatus" : 1,
-		"WoLgID" : 2
+		"id" : 206,
+		"word" : "她",
+		"meaning" : "she / her",
+		"status" : 1,
+		"id_language" : 2
 	},
 	{
-		"WoID" : 207,
-		"WoText" : "你",
-		"WoTranslation" : "you",
-		"WoStatus" : 1,
-		"WoLgID" : 2
+		"id" : 207,
+		"word" : "你",
+		"meaning" : "you",
+		"status" : 1,
+		"id_language" : 2
 	},
 	{
-		"WoID" : 208,
-		"WoText" : "咬",
-		"WoTranslation" : "bite",
-		"WoStatus" : 1,
-		"WoLgID" : 2
+		"id" : 208,
+		"word" : "咬",
+		"meaning" : "bite",
+		"status" : 1,
+		"id_language" : 2
 	},
 	{
-		"WoID" : 209,
-		"WoText" : "吗",
-		"WoTranslation" : "(QW)",
-		"WoStatus" : 1,
-		"WoLgID" : 2
+		"id" : 209,
+		"word" : "吗",
+		"meaning" : "(QW)",
+		"status" : 1,
+		"id_language" : 2
 	},
 	{
-		"WoID" : 210,
-		"WoText" : "说",
-		"WoTranslation" : "say",
-		"WoStatus" : 1,
-		"WoLgID" : 2
+		"id" : 210,
+		"word" : "说",
+		"meaning" : "say",
+		"status" : 1,
+		"id_language" : 2
 	},
 	{
-		"WoID" : 211,
-		"WoText" : "我的",
-		"WoTranslation" : "my",
-		"WoStatus" : 1,
-		"WoLgID" : 2
+		"id" : 211,
+		"word" : "我的",
+		"meaning" : "my",
+		"status" : 1,
+		"id_language" : 2
 	},
 	{
-		"WoID" : 212,
-		"WoText" : "这时",
-		"WoTranslation" : "at this time",
-		"WoStatus" : 1,
-		"WoLgID" : 2
+		"id" : 212,
+		"word" : "这时",
+		"meaning" : "at this time",
+		"status" : 1,
+		"id_language" : 2
 	},
 	{
-		"WoID" : 213,
-		"WoText" : "那",
-		"WoTranslation" : "that",
-		"WoStatus" : 1,
-		"WoLgID" : 2
+		"id" : 213,
+		"word" : "那",
+		"meaning" : "that",
+		"status" : 1,
+		"id_language" : 2
 	},
 	{
-		"WoID" : 214,
-		"WoText" : "了",
-		"WoTranslation" : "(compl.) / finish / (change)",
-		"WoStatus" : 1,
-		"WoLgID" : 2
+		"id" : 214,
+		"word" : "了",
+		"meaning" : "(compl.) / finish / (change)",
+		"status" : 1,
+		"id_language" : 2
 	},
 	{
-		"WoID" : 215,
-		"WoText" : "气坏",
-		"WoTranslation" : "furious",
-		"WoStatus" : 1,
-		"WoLgID" : 2
+		"id" : 215,
+		"word" : "气坏",
+		"meaning" : "furious",
+		"status" : 1,
+		"id_language" : 2
 	},
 	{
-		"WoID" : 216,
-		"WoText" : "叫",
-		"WoTranslation" : "shout",
-		"WoStatus" : 1,
-		"WoLgID" : 2
+		"id" : 216,
+		"word" : "叫",
+		"meaning" : "shout",
+		"status" : 1,
+		"id_language" : 2
 	},
 	{
-		"WoID" : 217,
-		"WoText" : "回答",
-		"WoTranslation" : "answer",
-		"WoStatus" : 1,
-		"WoLgID" : 2
+		"id" : 217,
+		"word" : "回答",
+		"meaning" : "answer",
+		"status" : 1,
+		"id_language" : 2
 	},
 	{
-		"WoID" : 218,
-		"WoText" : "这",
-		"WoTranslation" : "this",
-		"WoStatus" : 1,
-		"WoLgID" : 2
+		"id" : 218,
+		"word" : "这",
+		"meaning" : "this",
+		"status" : 1,
+		"id_language" : 2
 	},
 	{
-		"WoID" : 219,
-		"WoText" : "是",
-		"WoTranslation" : "be",
-		"WoStatus" : 1,
-		"WoLgID" : 2
+		"id" : 219,
+		"word" : "是",
+		"meaning" : "be",
+		"status" : 1,
+		"id_language" : 2
 	},
 	{
-		"WoID" : 220,
-		"WoText" : "你的",
-		"WoTranslation" : "your",
-		"WoStatus" : 1,
-		"WoLgID" : 2
+		"id" : 220,
+		"word" : "你的",
+		"meaning" : "your",
+		"status" : 1,
+		"id_language" : 2
 	}
-]}
+]
