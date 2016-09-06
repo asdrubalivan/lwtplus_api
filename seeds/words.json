@@ -1,0 +1,1452 @@
+﻿{
+"select WoID as id, WoText as word, WoTranslation as meaning, WoStatus as grade, WoLgID as id_language from words": [
+	{
+		"WoID" : 1,
+		"WoText" : "Manon",
+		"WoTranslation" : "(name)",
+		"WoStatus" : 98,
+		"WoLgID" : 1
+	},
+	{
+		"WoID" : 2,
+		"WoText" : "bonjour",
+		"WoTranslation" : "hello / good morning / good afternoon",
+		"WoStatus" : 5,
+		"WoLgID" : 1
+	},
+	{
+		"WoID" : 3,
+		"WoText" : "alors",
+		"WoTranslation" : "then / in that case / at the time / else / if not / my goodness / well",
+		"WoStatus" : 5,
+		"WoLgID" : 1
+	},
+	{
+		"WoID" : 4,
+		"WoText" : "il y a",
+		"WoTranslation" : "there is / there are",
+		"WoStatus" : 2,
+		"WoLgID" : 1
+	},
+	{
+		"WoID" : 170,
+		"WoText" : "pas",
+		"WoTranslation" : "(not) / footstep / step / walk",
+		"WoStatus" : 2,
+		"WoLgID" : 1
+	},
+	{
+		"WoID" : 6,
+		"WoText" : "qu",
+		"WoTranslation" : "that / how / so that",
+		"WoStatus" : 5,
+		"WoLgID" : 1
+	},
+	{
+		"WoID" : 7,
+		"WoText" : "je",
+		"WoTranslation" : "I",
+		"WoStatus" : 5,
+		"WoLgID" : 1
+	},
+	{
+		"WoID" : 8,
+		"WoText" : "crois",
+		"WoTranslation" : "believe / think",
+		"WoStatus" : 4,
+		"WoLgID" : 1
+	},
+	{
+		"WoID" : 9,
+		"WoText" : "一",
+		"WoTranslation" : "one / a",
+		"WoStatus" : 2,
+		"WoLgID" : 2
+	},
+	{
+		"WoID" : 10,
+		"WoText" : "天",
+		"WoTranslation" : "sky, day",
+		"WoStatus" : 2,
+		"WoLgID" : 2
+	},
+	{
+		"WoID" : 11,
+		"WoText" : "一天",
+		"WoTranslation" : "one day",
+		"WoStatus" : 1,
+		"WoLgID" : 2
+	},
+	{
+		"WoID" : 12,
+		"WoText" : "个",
+		"WoTranslation" : "(MW)",
+		"WoStatus" : 2,
+		"WoLgID" : 2
+	},
+	{
+		"WoID" : 13,
+		"WoText" : "男",
+		"WoTranslation" : "male",
+		"WoStatus" : 2,
+		"WoLgID" : 2
+	},
+	{
+		"WoID" : 14,
+		"WoText" : "人",
+		"WoTranslation" : "human being / person",
+		"WoStatus" : 2,
+		"WoLgID" : 2
+	},
+	{
+		"WoID" : 15,
+		"WoText" : "男人",
+		"WoTranslation" : "man",
+		"WoStatus" : 2,
+		"WoLgID" : 2
+	},
+	{
+		"WoID" : 16,
+		"WoText" : "走",
+		"WoTranslation" : "walk",
+		"WoStatus" : 2,
+		"WoLgID" : 2
+	},
+	{
+		"WoID" : 17,
+		"WoText" : "在",
+		"WoTranslation" : "be / live/ at",
+		"WoStatus" : 2,
+		"WoLgID" : 2
+	},
+	{
+		"WoID" : 18,
+		"WoText" : "街",
+		"WoTranslation" : "street",
+		"WoStatus" : 1,
+		"WoLgID" : 2
+	},
+	{
+		"WoID" : 19,
+		"WoText" : "上",
+		"WoTranslation" : "on / in / go up / upper part / last",
+		"WoStatus" : 2,
+		"WoLgID" : 2
+	},
+	{
+		"WoID" : 20,
+		"WoText" : "街上",
+		"WoTranslation" : "on the street",
+		"WoStatus" : 1,
+		"WoLgID" : 2
+	},
+	{
+		"WoID" : 21,
+		"WoText" : "突然",
+		"WoTranslation" : "suddenly",
+		"WoStatus" : 2,
+		"WoLgID" : 2
+	},
+	{
+		"WoID" : 22,
+		"WoText" : "qu'est-ce que",
+		"WoTranslation" : "what",
+		"WoStatus" : 4,
+		"WoLgID" : 1
+	},
+	{
+		"WoID" : 23,
+		"WoText" : "est-ce que",
+		"WoTranslation" : "is it that",
+		"WoStatus" : 4,
+		"WoLgID" : 1
+	},
+	{
+		"WoID" : 24,
+		"WoText" : "est-ce",
+		"WoTranslation" : "is that / is this",
+		"WoStatus" : 3,
+		"WoLgID" : 1
+	},
+	{
+		"WoID" : 25,
+		"WoText" : "est",
+		"WoTranslation" : "is / east",
+		"WoStatus" : 1,
+		"WoLgID" : 1
+	},
+	{
+		"WoID" : 26,
+		"WoText" : "dire",
+		"WoTranslation" : "say / tell",
+		"WoStatus" : 3,
+		"WoLgID" : 1
+	},
+	{
+		"WoID" : 27,
+		"WoText" : "wie",
+		"WoTranslation" : "how",
+		"WoStatus" : 2,
+		"WoLgID" : 3
+	},
+	{
+		"WoID" : 28,
+		"WoText" : "froh",
+		"WoTranslation" : "happy / glad",
+		"WoStatus" : 2,
+		"WoLgID" : 3
+	},
+	{
+		"WoID" : 29,
+		"WoText" : "bin",
+		"WoTranslation" : "am",
+		"WoStatus" : 2,
+		"WoLgID" : 3
+	},
+	{
+		"WoID" : 30,
+		"WoText" : "ich",
+		"WoTranslation" : "I",
+		"WoStatus" : 2,
+		"WoLgID" : 3
+	},
+	{
+		"WoID" : 31,
+		"WoText" : "daß",
+		"WoTranslation" : "that / so that",
+		"WoStatus" : 2,
+		"WoLgID" : 3
+	},
+	{
+		"WoID" : 32,
+		"WoText" : "weg",
+		"WoTranslation" : "away / gone / path / way",
+		"WoStatus" : 2,
+		"WoLgID" : 3
+	},
+	{
+		"WoID" : 33,
+		"WoText" : "don du sang",
+		"WoTranslation" : "blood donation",
+		"WoStatus" : 2,
+		"WoLgID" : 1
+	},
+	{
+		"WoID" : 34,
+		"WoText" : "一天",
+		"WoTranslation" : "one day",
+		"WoStatus" : 1,
+		"WoLgID" : 4
+	},
+	{
+		"WoID" : 35,
+		"WoText" : "男人",
+		"WoTranslation" : "man",
+		"WoStatus" : 1,
+		"WoLgID" : 4
+	},
+	{
+		"WoID" : 36,
+		"WoText" : "突然",
+		"WoTranslation" : "suddenly",
+		"WoStatus" : 1,
+		"WoLgID" : 4
+	},
+	{
+		"WoID" : 37,
+		"WoText" : "他",
+		"WoTranslation" : "he",
+		"WoStatus" : 1,
+		"WoLgID" : 4
+	},
+	{
+		"WoID" : 38,
+		"WoText" : "这时",
+		"WoTranslation" : "at this moment",
+		"WoStatus" : 1,
+		"WoLgID" : 4
+	},
+	{
+		"WoID" : 39,
+		"WoText" : "狗",
+		"WoTranslation" : "dog",
+		"WoStatus" : 1,
+		"WoLgID" : 4
+	},
+	{
+		"WoID" : 40,
+		"WoText" : "女人",
+		"WoTranslation" : "woman",
+		"WoStatus" : 1,
+		"WoLgID" : 4
+	},
+	{
+		"WoID" : 41,
+		"WoText" : "看起来",
+		"WoTranslation" : "it seems / it appears / it looks as if",
+		"WoStatus" : 1,
+		"WoLgID" : 4
+	},
+	{
+		"WoID" : 42,
+		"WoText" : "凶",
+		"WoTranslation" : "ferocious, fierce",
+		"WoStatus" : 1,
+		"WoLgID" : 4
+	},
+	{
+		"WoID" : 43,
+		"WoText" : "c'est",
+		"WoTranslation" : "it's / that's",
+		"WoStatus" : 1,
+		"WoLgID" : 1
+	},
+	{
+		"WoID" : 44,
+		"WoText" : "c",
+		"WoTranslation" : "that / it",
+		"WoStatus" : 5,
+		"WoLgID" : 1
+	},
+	{
+		"WoID" : 45,
+		"WoText" : "quoi",
+		"WoTranslation" : "what",
+		"WoStatus" : 3,
+		"WoLgID" : 1
+	},
+	{
+		"WoID" : 46,
+		"WoText" : "bonne action",
+		"WoTranslation" : "good deed",
+		"WoStatus" : 2,
+		"WoLgID" : 1
+	},
+	{
+		"WoID" : 47,
+		"WoText" : "你",
+		"WoTranslation" : "you",
+		"WoStatus" : 1,
+		"WoLgID" : 4
+	},
+	{
+		"WoID" : 48,
+		"WoText" : "你的",
+		"WoTranslation" : "your",
+		"WoStatus" : 1,
+		"WoLgID" : 4
+	},
+	{
+		"WoID" : 49,
+		"WoText" : "的",
+		"WoTranslation" : "of / 's / (Part.)",
+		"WoStatus" : 5,
+		"WoLgID" : 4
+	},
+	{
+		"WoID" : 50,
+		"WoText" : "il",
+		"WoTranslation" : "he",
+		"WoStatus" : 1,
+		"WoLgID" : 1
+	},
+	{
+		"WoID" : 51,
+		"WoText" : "ils",
+		"WoTranslation" : "they",
+		"WoStatus" : 1,
+		"WoLgID" : 1
+	},
+	{
+		"WoID" : 52,
+		"WoText" : "フランス",
+		"WoTranslation" : "France",
+		"WoStatus" : 1,
+		"WoLgID" : 5
+	},
+	{
+		"WoID" : 53,
+		"WoText" : "はい",
+		"WoTranslation" : "yes / OK / okay",
+		"WoStatus" : 1,
+		"WoLgID" : 5
+	},
+	{
+		"WoID" : 103,
+		"WoText" : "日",
+		"WoTranslation" : "day / Japan / sun",
+		"WoStatus" : 3,
+		"WoLgID" : 5
+	},
+	{
+		"WoID" : 54,
+		"WoText" : "は",
+		"WoTranslation" : "(Hiragana: ha) / (topic m.)",
+		"WoStatus" : 5,
+		"WoLgID" : 5
+	},
+	{
+		"WoID" : 55,
+		"WoText" : "い",
+		"WoTranslation" : "(Hiragana: i)",
+		"WoStatus" : 5,
+		"WoLgID" : 5
+	},
+	{
+		"WoID" : 56,
+		"WoText" : "え",
+		"WoTranslation" : "(Hiragana: e)",
+		"WoStatus" : 5,
+		"WoLgID" : 5
+	},
+	{
+		"WoID" : 57,
+		"WoText" : "す",
+		"WoTranslation" : "(Hiragana: su)",
+		"WoStatus" : 5,
+		"WoLgID" : 5
+	},
+	{
+		"WoID" : 58,
+		"WoText" : "み",
+		"WoTranslation" : "(Hiragana: mi)",
+		"WoStatus" : 5,
+		"WoLgID" : 5
+	},
+	{
+		"WoID" : 59,
+		"WoText" : "ま",
+		"WoTranslation" : "(Hiragana: ma)",
+		"WoStatus" : 5,
+		"WoLgID" : 5
+	},
+	{
+		"WoID" : 60,
+		"WoText" : "せ",
+		"WoTranslation" : "(Hiragana: se)",
+		"WoStatus" : 5,
+		"WoLgID" : 5
+	},
+	{
+		"WoID" : 61,
+		"WoText" : "ん",
+		"WoTranslation" : "(Hiragana: n)",
+		"WoStatus" : 5,
+		"WoLgID" : 5
+	},
+	{
+		"WoID" : 62,
+		"WoText" : "いいえ",
+		"WoTranslation" : "no / nay",
+		"WoStatus" : 1,
+		"WoLgID" : 5
+	},
+	{
+		"WoID" : 63,
+		"WoText" : "すみません",
+		"WoTranslation" : "sorry / excuse me",
+		"WoStatus" : 3,
+		"WoLgID" : 5
+	},
+	{
+		"WoID" : 64,
+		"WoText" : "ど",
+		"WoTranslation" : "(Hiragana: do)",
+		"WoStatus" : 5,
+		"WoLgID" : 5
+	},
+	{
+		"WoID" : 65,
+		"WoText" : "う",
+		"WoTranslation" : "(Hiragana: u)",
+		"WoStatus" : 5,
+		"WoLgID" : 5
+	},
+	{
+		"WoID" : 66,
+		"WoText" : "も",
+		"WoTranslation" : "(Hiragana: mo)",
+		"WoStatus" : 5,
+		"WoLgID" : 5
+	},
+	{
+		"WoID" : 104,
+		"WoText" : "本",
+		"WoTranslation" : "book / main / origin / present / real / true",
+		"WoStatus" : 3,
+		"WoLgID" : 5
+	},
+	{
+		"WoID" : 68,
+		"WoText" : "あ",
+		"WoTranslation" : "(Hiragana: a)",
+		"WoStatus" : 5,
+		"WoLgID" : 5
+	},
+	{
+		"WoID" : 69,
+		"WoText" : "り",
+		"WoTranslation" : "(Hiragana: ri)",
+		"WoStatus" : 5,
+		"WoLgID" : 5
+	},
+	{
+		"WoID" : 70,
+		"WoText" : "が",
+		"WoTranslation" : "(Hiragana: ga)",
+		"WoStatus" : 5,
+		"WoLgID" : 5
+	},
+	{
+		"WoID" : 71,
+		"WoText" : "と",
+		"WoTranslation" : "(Hiragana: to)",
+		"WoStatus" : 5,
+		"WoLgID" : 5
+	},
+	{
+		"WoID" : 72,
+		"WoText" : "ありがとう",
+		"WoTranslation" : "thank you",
+		"WoStatus" : 1,
+		"WoLgID" : 5
+	},
+	{
+		"WoID" : 73,
+		"WoText" : "ご",
+		"WoTranslation" : "(Hiragana: go)",
+		"WoStatus" : 5,
+		"WoLgID" : 5
+	},
+	{
+		"WoID" : 74,
+		"WoText" : "ざ",
+		"WoTranslation" : "(Hiragana: za)",
+		"WoStatus" : 5,
+		"WoLgID" : 5
+	},
+	{
+		"WoID" : 75,
+		"WoText" : "ございます",
+		"WoTranslation" : "(polite) be / exist",
+		"WoStatus" : 1,
+		"WoLgID" : 5
+	},
+	{
+		"WoID" : 108,
+		"WoText" : "どうも",
+		"WoTranslation" : "thanks",
+		"WoStatus" : 1,
+		"WoLgID" : 5
+	},
+	{
+		"WoID" : 77,
+		"WoText" : "た",
+		"WoTranslation" : "(Hiragana: ta)",
+		"WoStatus" : 5,
+		"WoLgID" : 5
+	},
+	{
+		"WoID" : 78,
+		"WoText" : "し",
+		"WoTranslation" : "(Hiragana: shi)",
+		"WoStatus" : 5,
+		"WoLgID" : 5
+	},
+	{
+		"WoID" : 79,
+		"WoText" : "て",
+		"WoTranslation" : "(Hiragana: te)",
+		"WoStatus" : 5,
+		"WoLgID" : 5
+	},
+	{
+		"WoID" : 109,
+		"WoText" : "来ました",
+		"WoTranslation" : "came",
+		"WoStatus" : 1,
+		"WoLgID" : 5
+	},
+	{
+		"WoID" : 83,
+		"WoText" : "日本",
+		"WoTranslation" : "Japan",
+		"WoStatus" : 1,
+		"WoLgID" : 5
+	},
+	{
+		"WoID" : 85,
+		"WoText" : "日本語",
+		"WoTranslation" : "Japanese lang.",
+		"WoStatus" : 1,
+		"WoLgID" : 5
+	},
+	{
+		"WoID" : 86,
+		"WoText" : "を",
+		"WoTranslation" : "(Hiragana: wo), (direct object)",
+		"WoStatus" : 5,
+		"WoLgID" : 5
+	},
+	{
+		"WoID" : 87,
+		"WoText" : "か",
+		"WoTranslation" : "(Hiragana: ka) / (question)",
+		"WoStatus" : 5,
+		"WoLgID" : 5
+	},
+	{
+		"WoID" : 88,
+		"WoText" : "ます",
+		"WoTranslation" : "(respect)",
+		"WoStatus" : 1,
+		"WoLgID" : 5
+	},
+	{
+		"WoID" : 89,
+		"WoText" : "話し",
+		"WoTranslation" : "talk / speech",
+		"WoStatus" : 1,
+		"WoLgID" : 5
+	},
+	{
+		"WoID" : 105,
+		"WoText" : "語",
+		"WoTranslation" : "language / speech / word",
+		"WoStatus" : 4,
+		"WoLgID" : 5
+	},
+	{
+		"WoID" : 106,
+		"WoText" : "話",
+		"WoTranslation" : "tale / talk",
+		"WoStatus" : 3,
+		"WoLgID" : 5
+	},
+	{
+		"WoID" : 92,
+		"WoText" : "少し",
+		"WoTranslation" : "small quantity / little / few",
+		"WoStatus" : 1,
+		"WoLgID" : 5
+	},
+	{
+		"WoID" : 93,
+		"WoText" : "少",
+		"WoTranslation" : "few / little",
+		"WoStatus" : 1,
+		"WoLgID" : 5
+	},
+	{
+		"WoID" : 94,
+		"WoText" : "私",
+		"WoTranslation" : "I / me",
+		"WoStatus" : 1,
+		"WoLgID" : 5
+	},
+	{
+		"WoID" : 96,
+		"WoText" : "ギ",
+		"WoTranslation" : "(Katakana: gi)",
+		"WoStatus" : 5,
+		"WoLgID" : 5
+	},
+	{
+		"WoID" : 97,
+		"WoText" : "イギリス",
+		"WoTranslation" : "Great Britain / United Kingdom",
+		"WoStatus" : 1,
+		"WoLgID" : 5
+	},
+	{
+		"WoID" : 98,
+		"WoText" : "イ",
+		"WoTranslation" : "(Katakana: i)",
+		"WoStatus" : 5,
+		"WoLgID" : 5
+	},
+	{
+		"WoID" : 99,
+		"WoText" : "リ",
+		"WoTranslation" : "(Katakana: ri)",
+		"WoStatus" : 5,
+		"WoLgID" : 5
+	},
+	{
+		"WoID" : 100,
+		"WoText" : "ス",
+		"WoTranslation" : "(Katakana: su)",
+		"WoStatus" : 5,
+		"WoLgID" : 5
+	},
+	{
+		"WoID" : 101,
+		"WoText" : "ら",
+		"WoTranslation" : "(Hiragana: ra)",
+		"WoStatus" : 5,
+		"WoLgID" : 5
+	},
+	{
+		"WoID" : 102,
+		"WoText" : "から",
+		"WoTranslation" : "from",
+		"WoStatus" : 1,
+		"WoLgID" : 5
+	},
+	{
+		"WoID" : 107,
+		"WoText" : "来",
+		"WoTranslation" : "become / cause / come / due / next",
+		"WoStatus" : 1,
+		"WoLgID" : 5
+	},
+	{
+		"WoID" : 110,
+		"WoText" : "wie froh",
+		"WoTranslation" : "how happy",
+		"WoStatus" : 1,
+		"WoLgID" : 3
+	},
+	{
+		"WoID" : 111,
+		"WoText" : "wie froh bin",
+		"WoTranslation" : "how happy am",
+		"WoStatus" : 1,
+		"WoLgID" : 3
+	},
+	{
+		"WoID" : 112,
+		"WoText" : "wie froh bin ich",
+		"WoTranslation" : "how happy I am",
+		"WoStatus" : 1,
+		"WoLgID" : 3
+	},
+	{
+		"WoID" : 113,
+		"WoText" : "wie froh bin ich, daß",
+		"WoTranslation" : "how happy I am that",
+		"WoStatus" : 1,
+		"WoLgID" : 3
+	},
+	{
+		"WoID" : 114,
+		"WoText" : "wie froh bin ich, daß ich",
+		"WoTranslation" : "how happy I am that I",
+		"WoStatus" : 1,
+		"WoLgID" : 3
+	},
+	{
+		"WoID" : 115,
+		"WoText" : "wie froh bin ich, daß ich weg",
+		"WoTranslation" : "how happy I am that I (am) gone",
+		"WoStatus" : 1,
+		"WoLgID" : 3
+	},
+	{
+		"WoID" : 116,
+		"WoText" : "wie froh bin ich, daß ich weg bin",
+		"WoTranslation" : "how happy I am that I am gone",
+		"WoStatus" : 1,
+		"WoLgID" : 3
+	},
+	{
+		"WoID" : 117,
+		"WoText" : "waren nicht meine übrigen Verbindungen recht ausgesucht vom Schicksal",
+		"WoTranslation" : "have not other attachments been specially appointed by fate",
+		"WoStatus" : 1,
+		"WoLgID" : 3
+	},
+	{
+		"WoID" : 118,
+		"WoText" : "um ein Herz wie das meine zu ängstigen",
+		"WoTranslation" : "to torment a head like mine",
+		"WoStatus" : 1,
+		"WoLgID" : 3
+	},
+	{
+		"WoID" : 119,
+		"WoText" : "Waren",
+		"WoTranslation" : "were / goods",
+		"WoStatus" : 99,
+		"WoLgID" : 3
+	},
+	{
+		"WoID" : 120,
+		"WoText" : "nicht",
+		"WoTranslation" : "not",
+		"WoStatus" : 99,
+		"WoLgID" : 3
+	},
+	{
+		"WoID" : 121,
+		"WoText" : "meine",
+		"WoTranslation" : "my",
+		"WoStatus" : 99,
+		"WoLgID" : 3
+	},
+	{
+		"WoID" : 122,
+		"WoText" : "übrigen",
+		"WoTranslation" : "others",
+		"WoStatus" : 99,
+		"WoLgID" : 3
+	},
+	{
+		"WoID" : 123,
+		"WoText" : "um",
+		"WoTranslation" : "to",
+		"WoStatus" : 99,
+		"WoLgID" : 3
+	},
+	{
+		"WoID" : 124,
+		"WoText" : "ein",
+		"WoTranslation" : "a / one",
+		"WoStatus" : 99,
+		"WoLgID" : 3
+	},
+	{
+		"WoID" : 125,
+		"WoText" : "Herz",
+		"WoTranslation" : "heart",
+		"WoStatus" : 99,
+		"WoLgID" : 3
+	},
+	{
+		"WoID" : 126,
+		"WoText" : "Leonore",
+		"WoTranslation" : "*",
+		"WoStatus" : 98,
+		"WoLgID" : 3
+	},
+	{
+		"WoID" : 127,
+		"WoText" : "좋은",
+		"WoTranslation" : "good",
+		"WoStatus" : 1,
+		"WoLgID" : 6
+	},
+	{
+		"WoID" : 128,
+		"WoText" : "아침",
+		"WoTranslation" : "morning",
+		"WoStatus" : 1,
+		"WoLgID" : 6
+	},
+	{
+		"WoID" : 129,
+		"WoText" : "좋은 아침",
+		"WoTranslation" : "good morning",
+		"WoStatus" : 1,
+		"WoLgID" : 6
+	},
+	{
+		"WoID" : 130,
+		"WoText" : "안녕하세요",
+		"WoTranslation" : "how are you / hello / good day",
+		"WoStatus" : 1,
+		"WoLgID" : 6
+	},
+	{
+		"WoID" : 131,
+		"WoText" : "잘지냈어요",
+		"WoTranslation" : "how are you",
+		"WoStatus" : 1,
+		"WoLgID" : 6
+	},
+	{
+		"WoID" : 132,
+		"WoText" : "잘자요",
+		"WoTranslation" : "good night",
+		"WoStatus" : 1,
+		"WoLgID" : 6
+	},
+	{
+		"WoID" : 133,
+		"WoText" : "잘가요",
+		"WoTranslation" : "good bye",
+		"WoStatus" : 1,
+		"WoLgID" : 6
+	},
+	{
+		"WoID" : 134,
+		"WoText" : "네",
+		"WoTranslation" : "four / yes / ok / you(r)",
+		"WoStatus" : 1,
+		"WoLgID" : 6
+	},
+	{
+		"WoID" : 135,
+		"WoText" : "그럼요",
+		"WoTranslation" : "by all means / without fail / certainly / definitely",
+		"WoStatus" : 1,
+		"WoLgID" : 6
+	},
+	{
+		"WoID" : 136,
+		"WoText" : "ดี",
+		"WoTranslation" : "good / is good",
+		"WoStatus" : 1,
+		"WoLgID" : 7
+	},
+	{
+		"WoID" : 137,
+		"WoText" : "สวัส",
+		"WoTranslation" : "blessing / good fortune",
+		"WoStatus" : 1,
+		"WoLgID" : 7
+	},
+	{
+		"WoID" : 139,
+		"WoText" : "ครับ",
+		"WoTranslation" : "(polite M)",
+		"WoStatus" : 1,
+		"WoLgID" : 7
+	},
+	{
+		"WoID" : 140,
+		"WoText" : "ค่ะ",
+		"WoTranslation" : "(polite, F)",
+		"WoStatus" : 1,
+		"WoLgID" : 7
+	},
+	{
+		"WoID" : 141,
+		"WoText" : "สวัสดีครับ",
+		"WoTranslation" : "hello (M) / goodbye (M)",
+		"WoStatus" : 1,
+		"WoLgID" : 7
+	},
+	{
+		"WoID" : 142,
+		"WoText" : "สวัสดีค่ะ",
+		"WoTranslation" : "hello (F) / goodbye (F)",
+		"WoStatus" : 1,
+		"WoLgID" : 7
+	},
+	{
+		"WoID" : 145,
+		"WoText" : "วัสดี",
+		"WoTranslation" : "hi / hey / (inf. abbrev.)",
+		"WoStatus" : 1,
+		"WoLgID" : 7
+	},
+	{
+		"WoID" : 146,
+		"WoText" : "vous",
+		"WoTranslation" : "you / you all",
+		"WoStatus" : 5,
+		"WoLgID" : 1
+	},
+	{
+		"WoID" : 147,
+		"WoText" : "fait",
+		"WoTranslation" : "made / done / make / fact / occurrence",
+		"WoStatus" : 4,
+		"WoLgID" : 1
+	},
+	{
+		"WoID" : 148,
+		"WoText" : "bonne",
+		"WoTranslation" : "good",
+		"WoStatus" : 2,
+		"WoLgID" : 1
+	},
+	{
+		"WoID" : 149,
+		"WoText" : "ai",
+		"WoTranslation" : "have",
+		"WoStatus" : 3,
+		"WoLgID" : 1
+	},
+	{
+		"WoID" : 150,
+		"WoText" : "avez",
+		"WoTranslation" : "have",
+		"WoStatus" : 4,
+		"WoLgID" : 1
+	},
+	{
+		"WoID" : 151,
+		"WoText" : "mon",
+		"WoTranslation" : "my",
+		"WoStatus" : 4,
+		"WoLgID" : 1
+	},
+	{
+		"WoID" : 152,
+		"WoText" : "טוב",
+		"WoTranslation" : "good",
+		"WoStatus" : 1,
+		"WoLgID" : 8
+	},
+	{
+		"WoID" : 153,
+		"WoText" : "בוקר",
+		"WoTranslation" : "morning",
+		"WoStatus" : 1,
+		"WoLgID" : 8
+	},
+	{
+		"WoID" : 154,
+		"WoText" : "ערב",
+		"WoTranslation" : "evening",
+		"WoStatus" : 1,
+		"WoLgID" : 8
+	},
+	{
+		"WoID" : 155,
+		"WoText" : "לילה",
+		"WoTranslation" : "night",
+		"WoStatus" : 1,
+		"WoLgID" : 8
+	},
+	{
+		"WoID" : 156,
+		"WoText" : "להתראות",
+		"WoTranslation" : "good bye",
+		"WoStatus" : 1,
+		"WoLgID" : 8
+	},
+	{
+		"WoID" : 157,
+		"WoText" : "טובים",
+		"WoTranslation" : "good",
+		"WoStatus" : 1,
+		"WoLgID" : 8
+	},
+	{
+		"WoID" : 158,
+		"WoText" : "צהריים",
+		"WoTranslation" : "noon",
+		"WoStatus" : 1,
+		"WoLgID" : 8
+	},
+	{
+		"WoID" : 159,
+		"WoText" : "אחר",
+		"WoTranslation" : "after / other",
+		"WoStatus" : 1,
+		"WoLgID" : 8
+	},
+	{
+		"WoID" : 160,
+		"WoText" : "בוקר טוב",
+		"WoTranslation" : "good morning",
+		"WoStatus" : 1,
+		"WoLgID" : 8
+	},
+	{
+		"WoID" : 161,
+		"WoText" : "אחר צהריים טובים",
+		"WoTranslation" : "good afternoon",
+		"WoStatus" : 1,
+		"WoLgID" : 8
+	},
+	{
+		"WoID" : 162,
+		"WoText" : "ערב טוב",
+		"WoTranslation" : "good evening",
+		"WoStatus" : 1,
+		"WoLgID" : 8
+	},
+	{
+		"WoID" : 163,
+		"WoText" : "לילה טוב",
+		"WoTranslation" : "good night",
+		"WoStatus" : 1,
+		"WoLgID" : 8
+	},
+	{
+		"WoID" : 164,
+		"WoText" : "אחר צהריים",
+		"WoTranslation" : "afternoon",
+		"WoStatus" : 1,
+		"WoLgID" : 8
+	},
+	{
+		"WoID" : 165,
+		"WoText" : "Oui",
+		"WoTranslation" : "yes",
+		"WoStatus" : 5,
+		"WoLgID" : 1
+	},
+	{
+		"WoID" : 166,
+		"WoText" : "On",
+		"WoTranslation" : "someone / somebody / you / one / we",
+		"WoStatus" : 4,
+		"WoLgID" : 1
+	},
+	{
+		"WoID" : 167,
+		"WoText" : "peut",
+		"WoTranslation" : "can / may",
+		"WoStatus" : 5,
+		"WoLgID" : 1
+	},
+	{
+		"WoID" : 168,
+		"WoText" : "ça",
+		"WoTranslation" : "that / this / it",
+		"WoStatus" : 4,
+		"WoLgID" : 1
+	},
+	{
+		"WoID" : 169,
+		"WoText" : "comme",
+		"WoTranslation" : "as / just as / like / how",
+		"WoStatus" : 3,
+		"WoLgID" : 1
+	},
+	{
+		"WoID" : 171,
+		"WoText" : "longtemps",
+		"WoTranslation" : "long time / long while / long",
+		"WoStatus" : 5,
+		"WoLgID" : 1
+	},
+	{
+		"WoID" : 172,
+		"WoText" : "là",
+		"WoTranslation" : "there",
+		"WoStatus" : 1,
+		"WoLgID" : 1
+	},
+	{
+		"WoID" : 173,
+		"WoText" : "une",
+		"WoTranslation" : "a / an / one / front page",
+		"WoStatus" : 5,
+		"WoLgID" : 1
+	},
+	{
+		"WoID" : 174,
+		"WoText" : "j",
+		"WoTranslation" : "I",
+		"WoStatus" : 99,
+		"WoLgID" : 1
+	},
+	{
+		"WoID" : 175,
+		"WoText" : "premier",
+		"WoTranslation" : "first / primary / prime / initial",
+		"WoStatus" : 4,
+		"WoLgID" : 1
+	},
+	{
+		"WoID" : 176,
+		"WoText" : "y",
+		"WoTranslation" : "there / here / in",
+		"WoStatus" : 2,
+		"WoLgID" : 1
+	},
+	{
+		"WoID" : 177,
+		"WoText" : "a",
+		"WoTranslation" : "have / has",
+		"WoStatus" : 2,
+		"WoLgID" : 1
+	},
+	{
+		"WoID" : 178,
+		"WoText" : "action",
+		"WoTranslation" : "action / deed",
+		"WoStatus" : 2,
+		"WoLgID" : 1
+	},
+	{
+		"WoID" : 179,
+		"WoText" : "don",
+		"WoTranslation" : "donation",
+		"WoStatus" : 1,
+		"WoLgID" : 1
+	},
+	{
+		"WoID" : 180,
+		"WoText" : "du",
+		"WoTranslation" : "of / from / some",
+		"WoStatus" : 1,
+		"WoLgID" : 1
+	},
+	{
+		"WoID" : 181,
+		"WoText" : "sang",
+		"WoTranslation" : "blood",
+		"WoStatus" : 1,
+		"WoLgID" : 1
+	},
+	{
+		"WoID" : 182,
+		"WoText" : "ce",
+		"WoTranslation" : "this / that / it",
+		"WoStatus" : 1,
+		"WoLgID" : 1
+	},
+	{
+		"WoID" : 183,
+		"WoText" : "que",
+		"WoTranslation" : "that / how / so that / so",
+		"WoStatus" : 1,
+		"WoLgID" : 1
+	},
+	{
+		"WoID" : 184,
+		"WoText" : "他",
+		"WoTranslation" : "he",
+		"WoStatus" : 1,
+		"WoLgID" : 2
+	},
+	{
+		"WoID" : 185,
+		"WoText" : "看见",
+		"WoTranslation" : "see / catch sight",
+		"WoStatus" : 1,
+		"WoLgID" : 2
+	},
+	{
+		"WoID" : 186,
+		"WoText" : "前面",
+		"WoTranslation" : "ahead / front",
+		"WoStatus" : 1,
+		"WoLgID" : 2
+	},
+	{
+		"WoID" : 187,
+		"WoText" : "有",
+		"WoTranslation" : "have / occur",
+		"WoStatus" : 1,
+		"WoLgID" : 2
+	},
+	{
+		"WoID" : 188,
+		"WoText" : "只",
+		"WoTranslation" : "(MW) / only",
+		"WoStatus" : 1,
+		"WoLgID" : 2
+	},
+	{
+		"WoID" : 189,
+		"WoText" : "黑色",
+		"WoTranslation" : "black color",
+		"WoStatus" : 1,
+		"WoLgID" : 2
+	},
+	{
+		"WoID" : 190,
+		"WoText" : "的",
+		"WoTranslation" : "(Part.) / 's",
+		"WoStatus" : 1,
+		"WoLgID" : 2
+	},
+	{
+		"WoID" : 191,
+		"WoText" : "大",
+		"WoTranslation" : "big / strong",
+		"WoStatus" : 1,
+		"WoLgID" : 2
+	},
+	{
+		"WoID" : 192,
+		"WoText" : "狗",
+		"WoTranslation" : "dog",
+		"WoStatus" : 1,
+		"WoLgID" : 2
+	},
+	{
+		"WoID" : 193,
+		"WoText" : "看起来",
+		"WoTranslation" : "seems / appears / looks as",
+		"WoStatus" : 1,
+		"WoLgID" : 2
+	},
+	{
+		"WoID" : 194,
+		"WoText" : "很",
+		"WoTranslation" : "very",
+		"WoStatus" : 1,
+		"WoLgID" : 2
+	},
+	{
+		"WoID" : 195,
+		"WoText" : "凶",
+		"WoTranslation" : "ferocious / terrible",
+		"WoStatus" : 1,
+		"WoLgID" : 2
+	},
+	{
+		"WoID" : 196,
+		"WoText" : "非常",
+		"WoTranslation" : "exceptional / very",
+		"WoStatus" : 1,
+		"WoLgID" : 2
+	},
+	{
+		"WoID" : 197,
+		"WoText" : "害怕",
+		"WoTranslation" : "be afraid",
+		"WoStatus" : 1,
+		"WoLgID" : 2
+	},
+	{
+		"WoID" : 198,
+		"WoText" : "不",
+		"WoTranslation" : "not",
+		"WoStatus" : 1,
+		"WoLgID" : 2
+	},
+	{
+		"WoID" : 199,
+		"WoText" : "敢",
+		"WoTranslation" : "dare",
+		"WoStatus" : 1,
+		"WoLgID" : 2
+	},
+	{
+		"WoID" : 200,
+		"WoText" : "往前",
+		"WoTranslation" : "go forward / move ahead",
+		"WoStatus" : 1,
+		"WoLgID" : 2
+	},
+	{
+		"WoID" : 201,
+		"WoText" : "旁边",
+		"WoTranslation" : "side / near by position/ right by",
+		"WoStatus" : 1,
+		"WoLgID" : 2
+	},
+	{
+		"WoID" : 202,
+		"WoText" : "站",
+		"WoTranslation" : "stand",
+		"WoStatus" : 1,
+		"WoLgID" : 2
+	},
+	{
+		"WoID" : 203,
+		"WoText" : "着",
+		"WoTranslation" : "(there) / (cont.)",
+		"WoStatus" : 1,
+		"WoLgID" : 2
+	},
+	{
+		"WoID" : 204,
+		"WoText" : "女人",
+		"WoTranslation" : "woman",
+		"WoStatus" : 2,
+		"WoLgID" : 2
+	},
+	{
+		"WoID" : 205,
+		"WoText" : "问",
+		"WoTranslation" : "ask",
+		"WoStatus" : 1,
+		"WoLgID" : 2
+	},
+	{
+		"WoID" : 206,
+		"WoText" : "她",
+		"WoTranslation" : "she / her",
+		"WoStatus" : 1,
+		"WoLgID" : 2
+	},
+	{
+		"WoID" : 207,
+		"WoText" : "你",
+		"WoTranslation" : "you",
+		"WoStatus" : 1,
+		"WoLgID" : 2
+	},
+	{
+		"WoID" : 208,
+		"WoText" : "咬",
+		"WoTranslation" : "bite",
+		"WoStatus" : 1,
+		"WoLgID" : 2
+	},
+	{
+		"WoID" : 209,
+		"WoText" : "吗",
+		"WoTranslation" : "(QW)",
+		"WoStatus" : 1,
+		"WoLgID" : 2
+	},
+	{
+		"WoID" : 210,
+		"WoText" : "说",
+		"WoTranslation" : "say",
+		"WoStatus" : 1,
+		"WoLgID" : 2
+	},
+	{
+		"WoID" : 211,
+		"WoText" : "我的",
+		"WoTranslation" : "my",
+		"WoStatus" : 1,
+		"WoLgID" : 2
+	},
+	{
+		"WoID" : 212,
+		"WoText" : "这时",
+		"WoTranslation" : "at this time",
+		"WoStatus" : 1,
+		"WoLgID" : 2
+	},
+	{
+		"WoID" : 213,
+		"WoText" : "那",
+		"WoTranslation" : "that",
+		"WoStatus" : 1,
+		"WoLgID" : 2
+	},
+	{
+		"WoID" : 214,
+		"WoText" : "了",
+		"WoTranslation" : "(compl.) / finish / (change)",
+		"WoStatus" : 1,
+		"WoLgID" : 2
+	},
+	{
+		"WoID" : 215,
+		"WoText" : "气坏",
+		"WoTranslation" : "furious",
+		"WoStatus" : 1,
+		"WoLgID" : 2
+	},
+	{
+		"WoID" : 216,
+		"WoText" : "叫",
+		"WoTranslation" : "shout",
+		"WoStatus" : 1,
+		"WoLgID" : 2
+	},
+	{
+		"WoID" : 217,
+		"WoText" : "回答",
+		"WoTranslation" : "answer",
+		"WoStatus" : 1,
+		"WoLgID" : 2
+	},
+	{
+		"WoID" : 218,
+		"WoText" : "这",
+		"WoTranslation" : "this",
+		"WoStatus" : 1,
+		"WoLgID" : 2
+	},
+	{
+		"WoID" : 219,
+		"WoText" : "是",
+		"WoTranslation" : "be",
+		"WoStatus" : 1,
+		"WoLgID" : 2
+	},
+	{
+		"WoID" : 220,
+		"WoText" : "你的",
+		"WoTranslation" : "your",
+		"WoStatus" : 1,
+		"WoLgID" : 2
+	}
+]}

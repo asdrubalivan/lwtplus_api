@@ -1,0 +1,75 @@
+﻿{
+"SELECT "FIXME AND FIX LEFT TO RIGHT (Invert)" as code, LgID as id, LgName as name, LgRightToLeft as left_to_right, LgRemoveSpaces as remove_spaces, LgSplitEachChar as split_each_char, LgRegexpSplitSentences as regex_split_sentences FROM languages": [
+	{
+		"code" : "FIXME AND FIX LEFT TO RIGHT (Invert)",
+		"LgID" : 1,
+		"LgName" : "French",
+		"LgRightToLeft" : 0,
+		"LgRemoveSpaces" : 0,
+		"LgSplitEachChar" : 0,
+		"LgRegexpSplitSentences" : ".!?:;"
+	},
+	{
+		"code" : "FIXME AND FIX LEFT TO RIGHT (Invert)",
+		"LgID" : 2,
+		"LgName" : "Chinese",
+		"LgRightToLeft" : 0,
+		"LgRemoveSpaces" : 1,
+		"LgSplitEachChar" : 1,
+		"LgRegexpSplitSentences" : ".!?:;。！？：；"
+	},
+	{
+		"code" : "FIXME AND FIX LEFT TO RIGHT (Invert)",
+		"LgID" : 3,
+		"LgName" : "German",
+		"LgRightToLeft" : 0,
+		"LgRemoveSpaces" : 0,
+		"LgSplitEachChar" : 0,
+		"LgRegexpSplitSentences" : ".!?:;"
+	},
+	{
+		"code" : "FIXME AND FIX LEFT TO RIGHT (Invert)",
+		"LgID" : 4,
+		"LgName" : "Chinese2",
+		"LgRightToLeft" : 0,
+		"LgRemoveSpaces" : 1,
+		"LgSplitEachChar" : 0,
+		"LgRegexpSplitSentences" : ".!?:;。！？：；"
+	},
+	{
+		"code" : "FIXME AND FIX LEFT TO RIGHT (Invert)",
+		"LgID" : 5,
+		"LgName" : "Japanese",
+		"LgRightToLeft" : 0,
+		"LgRemoveSpaces" : 1,
+		"LgSplitEachChar" : 1,
+		"LgRegexpSplitSentences" : ".!?:;。！？：；"
+	},
+	{
+		"code" : "FIXME AND FIX LEFT TO RIGHT (Invert)",
+		"LgID" : 6,
+		"LgName" : "Korean",
+		"LgRightToLeft" : 0,
+		"LgRemoveSpaces" : 0,
+		"LgSplitEachChar" : 0,
+		"LgRegexpSplitSentences" : ".!?:;。！？：；"
+	},
+	{
+		"code" : "FIXME AND FIX LEFT TO RIGHT (Invert)",
+		"LgID" : 7,
+		"LgName" : "Thai",
+		"LgRightToLeft" : 0,
+		"LgRemoveSpaces" : 1,
+		"LgSplitEachChar" : 0,
+		"LgRegexpSplitSentences" : ".!?:;"
+	},
+	{
+		"code" : "FIXME AND FIX LEFT TO RIGHT (Invert)",
+		"LgID" : 8,
+		"LgName" : "Hebrew",
+		"LgRightToLeft" : 1,
+		"LgRemoveSpaces" : 0,
+		"LgSplitEachChar" : 0,
+		"LgRegexpSplitSentences" : ".!?:;"
+	}
+]}
