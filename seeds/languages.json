@@ -1,6 +1,6 @@
 [
 	{
-		"code" : "FIXME AND FIX LEFT TO RIGHT (Invert)",
+		"code" : "FR",
 		"id" : 1,
 		"name" : "French",
 		"left_to_right" : 1,
@@ -9,7 +9,7 @@
 		"regex_split_sentences" : ".!?:;"
 	},
 	{
-		"code" : "FIXME AND FIX LEFT TO RIGHT (Invert)",
+		"code" : "CH",
 		"id" : 2,
 		"name" : "Chinese",
 		"left_to_right" : 1,
@@ -18,7 +18,7 @@
 		"regex_split_sentences" : ".!?:;。！？：；"
 	},
 	{
-		"code" : "FIXME AND FIX LEFT TO RIGHT (Invert)",
+		"code" : "GE",
 		"id" : 3,
 		"name" : "German",
 		"left_to_right" : 1,
@@ -27,7 +27,7 @@
 		"regex_split_sentences" : ".!?:;"
 	},
 	{
-		"code" : "FIXME AND FIX LEFT TO RIGHT (Invert)",
+		"code" : "CH2",
 		"id" : 4,
 		"name" : "Chinese2",
 		"left_to_right" : 1,
@@ -36,7 +36,7 @@
 		"regex_split_sentences" : ".!?:;。！？：；"
 	},
 	{
-		"code" : "FIXME AND FIX LEFT TO RIGHT (Invert)",
+		"code" : "JP",
 		"id" : 5,
 		"name" : "Japanese",
 		"left_to_right" : 1,
@@ -45,7 +45,7 @@
 		"regex_split_sentences" : ".!?:;。！？：；"
 	},
 	{
-		"code" : "FIXME AND FIX LEFT TO RIGHT (Invert)",
+		"code" : "KR",
 		"id" : 6,
 		"name" : "Korean",
 		"left_to_right" : 1,
@@ -54,7 +54,7 @@
 		"regex_split_sentences" : ".!?:;。！？：；"
 	},
 	{
-		"code" : "FIXME AND FIX LEFT TO RIGHT (Invert)",
+		"code" : "TH",
 		"id" : 7,
 		"name" : "Thai",
 		"left_to_right" : 1,
@@ -63,7 +63,7 @@
 		"regex_split_sentences" : ".!?:;"
 	},
 	{
-		"code" : "FIXME AND FIX LEFT TO RIGHT (Invert)",
+		"code" : "HB",
 		"id" : 8,
 		"name" : "Hebrew",
 		"left_to_right" : 0,
