@@ -3,1449 +3,1449 @@
 		"id" : 1,
 		"word" : "Manon",
 		"meaning" : "(name)",
-		"status" : 98,
+		"grade" : 98,
 		"id_language" : 1
 	},
 	{
 		"id" : 2,
 		"word" : "bonjour",
 		"meaning" : "hello / good morning / good afternoon",
-		"status" : 5,
+		"grade" : 5,
 		"id_language" : 1
 	},
 	{
 		"id" : 3,
 		"word" : "alors",
 		"meaning" : "then / in that case / at the time / else / if not / my goodness / well",
-		"status" : 5,
+		"grade" : 5,
 		"id_language" : 1
 	},
 	{
 		"id" : 4,
 		"word" : "il y a",
 		"meaning" : "there is / there are",
-		"status" : 2,
+		"grade" : 2,
 		"id_language" : 1
 	},
 	{
 		"id" : 170,
 		"word" : "pas",
 		"meaning" : "(not) / footstep / step / walk",
-		"status" : 2,
+		"grade" : 2,
 		"id_language" : 1
 	},
 	{
 		"id" : 6,
 		"word" : "qu",
 		"meaning" : "that / how / so that",
-		"status" : 5,
+		"grade" : 5,
 		"id_language" : 1
 	},
 	{
 		"id" : 7,
 		"word" : "je",
 		"meaning" : "I",
-		"status" : 5,
+		"grade" : 5,
 		"id_language" : 1
 	},
 	{
 		"id" : 8,
 		"word" : "crois",
 		"meaning" : "believe / think",
-		"status" : 4,
+		"grade" : 4,
 		"id_language" : 1
 	},
 	{
 		"id" : 9,
 		"word" : "一",
 		"meaning" : "one / a",
-		"status" : 2,
+		"grade" : 2,
 		"id_language" : 2
 	},
 	{
 		"id" : 10,
 		"word" : "天",
 		"meaning" : "sky, day",
-		"status" : 2,
+		"grade" : 2,
 		"id_language" : 2
 	},
 	{
 		"id" : 11,
 		"word" : "一天",
 		"meaning" : "one day",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 2
 	},
 	{
 		"id" : 12,
 		"word" : "个",
 		"meaning" : "(MW)",
-		"status" : 2,
+		"grade" : 2,
 		"id_language" : 2
 	},
 	{
 		"id" : 13,
 		"word" : "男",
 		"meaning" : "male",
-		"status" : 2,
+		"grade" : 2,
 		"id_language" : 2
 	},
 	{
 		"id" : 14,
 		"word" : "人",
 		"meaning" : "human being / person",
-		"status" : 2,
+		"grade" : 2,
 		"id_language" : 2
 	},
 	{
 		"id" : 15,
 		"word" : "男人",
 		"meaning" : "man",
-		"status" : 2,
+		"grade" : 2,
 		"id_language" : 2
 	},
 	{
 		"id" : 16,
 		"word" : "走",
 		"meaning" : "walk",
-		"status" : 2,
+		"grade" : 2,
 		"id_language" : 2
 	},
 	{
 		"id" : 17,
 		"word" : "在",
 		"meaning" : "be / live/ at",
-		"status" : 2,
+		"grade" : 2,
 		"id_language" : 2
 	},
 	{
 		"id" : 18,
 		"word" : "街",
 		"meaning" : "street",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 2
 	},
 	{
 		"id" : 19,
 		"word" : "上",
 		"meaning" : "on / in / go up / upper part / last",
-		"status" : 2,
+		"grade" : 2,
 		"id_language" : 2
 	},
 	{
 		"id" : 20,
 		"word" : "街上",
 		"meaning" : "on the street",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 2
 	},
 	{
 		"id" : 21,
 		"word" : "突然",
 		"meaning" : "suddenly",
-		"status" : 2,
+		"grade" : 2,
 		"id_language" : 2
 	},
 	{
 		"id" : 22,
 		"word" : "qu'est-ce que",
 		"meaning" : "what",
-		"status" : 4,
+		"grade" : 4,
 		"id_language" : 1
 	},
 	{
 		"id" : 23,
 		"word" : "est-ce que",
 		"meaning" : "is it that",
-		"status" : 4,
+		"grade" : 4,
 		"id_language" : 1
 	},
 	{
 		"id" : 24,
 		"word" : "est-ce",
 		"meaning" : "is that / is this",
-		"status" : 3,
+		"grade" : 3,
 		"id_language" : 1
 	},
 	{
 		"id" : 25,
 		"word" : "est",
 		"meaning" : "is / east",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 1
 	},
 	{
 		"id" : 26,
 		"word" : "dire",
 		"meaning" : "say / tell",
-		"status" : 3,
+		"grade" : 3,
 		"id_language" : 1
 	},
 	{
 		"id" : 27,
 		"word" : "wie",
 		"meaning" : "how",
-		"status" : 2,
+		"grade" : 2,
 		"id_language" : 3
 	},
 	{
 		"id" : 28,
 		"word" : "froh",
 		"meaning" : "happy / glad",
-		"status" : 2,
+		"grade" : 2,
 		"id_language" : 3
 	},
 	{
 		"id" : 29,
 		"word" : "bin",
 		"meaning" : "am",
-		"status" : 2,
+		"grade" : 2,
 		"id_language" : 3
 	},
 	{
 		"id" : 30,
 		"word" : "ich",
 		"meaning" : "I",
-		"status" : 2,
+		"grade" : 2,
 		"id_language" : 3
 	},
 	{
 		"id" : 31,
 		"word" : "daß",
 		"meaning" : "that / so that",
-		"status" : 2,
+		"grade" : 2,
 		"id_language" : 3
 	},
 	{
 		"id" : 32,
 		"word" : "weg",
 		"meaning" : "away / gone / path / way",
-		"status" : 2,
+		"grade" : 2,
 		"id_language" : 3
 	},
 	{
 		"id" : 33,
 		"word" : "don du sang",
 		"meaning" : "blood donation",
-		"status" : 2,
+		"grade" : 2,
 		"id_language" : 1
 	},
 	{
 		"id" : 34,
 		"word" : "一天",
 		"meaning" : "one day",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 4
 	},
 	{
 		"id" : 35,
 		"word" : "男人",
 		"meaning" : "man",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 4
 	},
 	{
 		"id" : 36,
 		"word" : "突然",
 		"meaning" : "suddenly",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 4
 	},
 	{
 		"id" : 37,
 		"word" : "他",
 		"meaning" : "he",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 4
 	},
 	{
 		"id" : 38,
 		"word" : "这时",
 		"meaning" : "at this moment",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 4
 	},
 	{
 		"id" : 39,
 		"word" : "狗",
 		"meaning" : "dog",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 4
 	},
 	{
 		"id" : 40,
 		"word" : "女人",
 		"meaning" : "woman",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 4
 	},
 	{
 		"id" : 41,
 		"word" : "看起来",
 		"meaning" : "it seems / it appears / it looks as if",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 4
 	},
 	{
 		"id" : 42,
 		"word" : "凶",
 		"meaning" : "ferocious, fierce",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 4
 	},
 	{
 		"id" : 43,
 		"word" : "c'est",
 		"meaning" : "it's / that's",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 1
 	},
 	{
 		"id" : 44,
 		"word" : "c",
 		"meaning" : "that / it",
-		"status" : 5,
+		"grade" : 5,
 		"id_language" : 1
 	},
 	{
 		"id" : 45,
 		"word" : "quoi",
 		"meaning" : "what",
-		"status" : 3,
+		"grade" : 3,
 		"id_language" : 1
 	},
 	{
 		"id" : 46,
 		"word" : "bonne action",
 		"meaning" : "good deed",
-		"status" : 2,
+		"grade" : 2,
 		"id_language" : 1
 	},
 	{
 		"id" : 47,
 		"word" : "你",
 		"meaning" : "you",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 4
 	},
 	{
 		"id" : 48,
 		"word" : "你的",
 		"meaning" : "your",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 4
 	},
 	{
 		"id" : 49,
 		"word" : "的",
 		"meaning" : "of / 's / (Part.)",
-		"status" : 5,
+		"grade" : 5,
 		"id_language" : 4
 	},
 	{
 		"id" : 50,
 		"word" : "il",
 		"meaning" : "he",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 1
 	},
 	{
 		"id" : 51,
 		"word" : "ils",
 		"meaning" : "they",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 1
 	},
 	{
 		"id" : 52,
 		"word" : "フランス",
 		"meaning" : "France",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 5
 	},
 	{
 		"id" : 53,
 		"word" : "はい",
 		"meaning" : "yes / OK / okay",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 5
 	},
 	{
 		"id" : 103,
 		"word" : "日",
 		"meaning" : "day / Japan / sun",
-		"status" : 3,
+		"grade" : 3,
 		"id_language" : 5
 	},
 	{
 		"id" : 54,
 		"word" : "は",
 		"meaning" : "(Hiragana: ha) / (topic m.)",
-		"status" : 5,
+		"grade" : 5,
 		"id_language" : 5
 	},
 	{
 		"id" : 55,
 		"word" : "い",
 		"meaning" : "(Hiragana: i)",
-		"status" : 5,
+		"grade" : 5,
 		"id_language" : 5
 	},
 	{
 		"id" : 56,
 		"word" : "え",
 		"meaning" : "(Hiragana: e)",
-		"status" : 5,
+		"grade" : 5,
 		"id_language" : 5
 	},
 	{
 		"id" : 57,
 		"word" : "す",
 		"meaning" : "(Hiragana: su)",
-		"status" : 5,
+		"grade" : 5,
 		"id_language" : 5
 	},
 	{
 		"id" : 58,
 		"word" : "み",
 		"meaning" : "(Hiragana: mi)",
-		"status" : 5,
+		"grade" : 5,
 		"id_language" : 5
 	},
 	{
 		"id" : 59,
 		"word" : "ま",
 		"meaning" : "(Hiragana: ma)",
-		"status" : 5,
+		"grade" : 5,
 		"id_language" : 5
 	},
 	{
 		"id" : 60,
 		"word" : "せ",
 		"meaning" : "(Hiragana: se)",
-		"status" : 5,
+		"grade" : 5,
 		"id_language" : 5
 	},
 	{
 		"id" : 61,
 		"word" : "ん",
 		"meaning" : "(Hiragana: n)",
-		"status" : 5,
+		"grade" : 5,
 		"id_language" : 5
 	},
 	{
 		"id" : 62,
 		"word" : "いいえ",
 		"meaning" : "no / nay",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 5
 	},
 	{
 		"id" : 63,
 		"word" : "すみません",
 		"meaning" : "sorry / excuse me",
-		"status" : 3,
+		"grade" : 3,
 		"id_language" : 5
 	},
 	{
 		"id" : 64,
 		"word" : "ど",
 		"meaning" : "(Hiragana: do)",
-		"status" : 5,
+		"grade" : 5,
 		"id_language" : 5
 	},
 	{
 		"id" : 65,
 		"word" : "う",
 		"meaning" : "(Hiragana: u)",
-		"status" : 5,
+		"grade" : 5,
 		"id_language" : 5
 	},
 	{
 		"id" : 66,
 		"word" : "も",
 		"meaning" : "(Hiragana: mo)",
-		"status" : 5,
+		"grade" : 5,
 		"id_language" : 5
 	},
 	{
 		"id" : 104,
 		"word" : "本",
 		"meaning" : "book / main / origin / present / real / true",
-		"status" : 3,
+		"grade" : 3,
 		"id_language" : 5
 	},
 	{
 		"id" : 68,
 		"word" : "あ",
 		"meaning" : "(Hiragana: a)",
-		"status" : 5,
+		"grade" : 5,
 		"id_language" : 5
 	},
 	{
 		"id" : 69,
 		"word" : "り",
 		"meaning" : "(Hiragana: ri)",
-		"status" : 5,
+		"grade" : 5,
 		"id_language" : 5
 	},
 	{
 		"id" : 70,
 		"word" : "が",
 		"meaning" : "(Hiragana: ga)",
-		"status" : 5,
+		"grade" : 5,
 		"id_language" : 5
 	},
 	{
 		"id" : 71,
 		"word" : "と",
 		"meaning" : "(Hiragana: to)",
-		"status" : 5,
+		"grade" : 5,
 		"id_language" : 5
 	},
 	{
 		"id" : 72,
 		"word" : "ありがとう",
 		"meaning" : "thank you",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 5
 	},
 	{
 		"id" : 73,
 		"word" : "ご",
 		"meaning" : "(Hiragana: go)",
-		"status" : 5,
+		"grade" : 5,
 		"id_language" : 5
 	},
 	{
 		"id" : 74,
 		"word" : "ざ",
 		"meaning" : "(Hiragana: za)",
-		"status" : 5,
+		"grade" : 5,
 		"id_language" : 5
 	},
 	{
 		"id" : 75,
 		"word" : "ございます",
 		"meaning" : "(polite) be / exist",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 5
 	},
 	{
 		"id" : 108,
 		"word" : "どうも",
 		"meaning" : "thanks",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 5
 	},
 	{
 		"id" : 77,
 		"word" : "た",
 		"meaning" : "(Hiragana: ta)",
-		"status" : 5,
+		"grade" : 5,
 		"id_language" : 5
 	},
 	{
 		"id" : 78,
 		"word" : "し",
 		"meaning" : "(Hiragana: shi)",
-		"status" : 5,
+		"grade" : 5,
 		"id_language" : 5
 	},
 	{
 		"id" : 79,
 		"word" : "て",
 		"meaning" : "(Hiragana: te)",
-		"status" : 5,
+		"grade" : 5,
 		"id_language" : 5
 	},
 	{
 		"id" : 109,
 		"word" : "来ました",
 		"meaning" : "came",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 5
 	},
 	{
 		"id" : 83,
 		"word" : "日本",
 		"meaning" : "Japan",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 5
 	},
 	{
 		"id" : 85,
 		"word" : "日本語",
 		"meaning" : "Japanese lang.",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 5
 	},
 	{
 		"id" : 86,
 		"word" : "を",
 		"meaning" : "(Hiragana: wo), (direct object)",
-		"status" : 5,
+		"grade" : 5,
 		"id_language" : 5
 	},
 	{
 		"id" : 87,
 		"word" : "か",
 		"meaning" : "(Hiragana: ka) / (question)",
-		"status" : 5,
+		"grade" : 5,
 		"id_language" : 5
 	},
 	{
 		"id" : 88,
 		"word" : "ます",
 		"meaning" : "(respect)",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 5
 	},
 	{
 		"id" : 89,
 		"word" : "話し",
 		"meaning" : "talk / speech",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 5
 	},
 	{
 		"id" : 105,
 		"word" : "語",
 		"meaning" : "language / speech / word",
-		"status" : 4,
+		"grade" : 4,
 		"id_language" : 5
 	},
 	{
 		"id" : 106,
 		"word" : "話",
 		"meaning" : "tale / talk",
-		"status" : 3,
+		"grade" : 3,
 		"id_language" : 5
 	},
 	{
 		"id" : 92,
 		"word" : "少し",
 		"meaning" : "small quantity / little / few",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 5
 	},
 	{
 		"id" : 93,
 		"word" : "少",
 		"meaning" : "few / little",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 5
 	},
 	{
 		"id" : 94,
 		"word" : "私",
 		"meaning" : "I / me",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 5
 	},
 	{
 		"id" : 96,
 		"word" : "ギ",
 		"meaning" : "(Katakana: gi)",
-		"status" : 5,
+		"grade" : 5,
 		"id_language" : 5
 	},
 	{
 		"id" : 97,
 		"word" : "イギリス",
 		"meaning" : "Great Britain / United Kingdom",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 5
 	},
 	{
 		"id" : 98,
 		"word" : "イ",
 		"meaning" : "(Katakana: i)",
-		"status" : 5,
+		"grade" : 5,
 		"id_language" : 5
 	},
 	{
 		"id" : 99,
 		"word" : "リ",
 		"meaning" : "(Katakana: ri)",
-		"status" : 5,
+		"grade" : 5,
 		"id_language" : 5
 	},
 	{
 		"id" : 100,
 		"word" : "ス",
 		"meaning" : "(Katakana: su)",
-		"status" : 5,
+		"grade" : 5,
 		"id_language" : 5
 	},
 	{
 		"id" : 101,
 		"word" : "ら",
 		"meaning" : "(Hiragana: ra)",
-		"status" : 5,
+		"grade" : 5,
 		"id_language" : 5
 	},
 	{
 		"id" : 102,
 		"word" : "から",
 		"meaning" : "from",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 5
 	},
 	{
 		"id" : 107,
 		"word" : "来",
 		"meaning" : "become / cause / come / due / next",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 5
 	},
 	{
 		"id" : 110,
 		"word" : "wie froh",
 		"meaning" : "how happy",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 3
 	},
 	{
 		"id" : 111,
 		"word" : "wie froh bin",
 		"meaning" : "how happy am",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 3
 	},
 	{
 		"id" : 112,
 		"word" : "wie froh bin ich",
 		"meaning" : "how happy I am",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 3
 	},
 	{
 		"id" : 113,
 		"word" : "wie froh bin ich, daß",
 		"meaning" : "how happy I am that",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 3
 	},
 	{
 		"id" : 114,
 		"word" : "wie froh bin ich, daß ich",
 		"meaning" : "how happy I am that I",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 3
 	},
 	{
 		"id" : 115,
 		"word" : "wie froh bin ich, daß ich weg",
 		"meaning" : "how happy I am that I (am) gone",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 3
 	},
 	{
 		"id" : 116,
 		"word" : "wie froh bin ich, daß ich weg bin",
 		"meaning" : "how happy I am that I am gone",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 3
 	},
 	{
 		"id" : 117,
 		"word" : "waren nicht meine übrigen Verbindungen recht ausgesucht vom Schicksal",
 		"meaning" : "have not other attachments been specially appointed by fate",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 3
 	},
 	{
 		"id" : 118,
 		"word" : "um ein Herz wie das meine zu ängstigen",
 		"meaning" : "to torment a head like mine",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 3
 	},
 	{
 		"id" : 119,
 		"word" : "Waren",
 		"meaning" : "were / goods",
-		"status" : 99,
+		"grade" : 99,
 		"id_language" : 3
 	},
 	{
 		"id" : 120,
 		"word" : "nicht",
 		"meaning" : "not",
-		"status" : 99,
+		"grade" : 99,
 		"id_language" : 3
 	},
 	{
 		"id" : 121,
 		"word" : "meine",
 		"meaning" : "my",
-		"status" : 99,
+		"grade" : 99,
 		"id_language" : 3
 	},
 	{
 		"id" : 122,
 		"word" : "übrigen",
 		"meaning" : "others",
-		"status" : 99,
+		"grade" : 99,
 		"id_language" : 3
 	},
 	{
 		"id" : 123,
 		"word" : "um",
 		"meaning" : "to",
-		"status" : 99,
+		"grade" : 99,
 		"id_language" : 3
 	},
 	{
 		"id" : 124,
 		"word" : "ein",
 		"meaning" : "a / one",
-		"status" : 99,
+		"grade" : 99,
 		"id_language" : 3
 	},
 	{
 		"id" : 125,
 		"word" : "Herz",
 		"meaning" : "heart",
-		"status" : 99,
+		"grade" : 99,
 		"id_language" : 3
 	},
 	{
 		"id" : 126,
 		"word" : "Leonore",
 		"meaning" : "*",
-		"status" : 98,
+		"grade" : 98,
 		"id_language" : 3
 	},
 	{
 		"id" : 127,
 		"word" : "좋은",
 		"meaning" : "good",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 6
 	},
 	{
 		"id" : 128,
 		"word" : "아침",
 		"meaning" : "morning",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 6
 	},
 	{
 		"id" : 129,
 		"word" : "좋은 아침",
 		"meaning" : "good morning",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 6
 	},
 	{
 		"id" : 130,
 		"word" : "안녕하세요",
 		"meaning" : "how are you / hello / good day",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 6
 	},
 	{
 		"id" : 131,
 		"word" : "잘지냈어요",
 		"meaning" : "how are you",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 6
 	},
 	{
 		"id" : 132,
 		"word" : "잘자요",
 		"meaning" : "good night",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 6
 	},
 	{
 		"id" : 133,
 		"word" : "잘가요",
 		"meaning" : "good bye",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 6
 	},
 	{
 		"id" : 134,
 		"word" : "네",
 		"meaning" : "four / yes / ok / you(r)",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 6
 	},
 	{
 		"id" : 135,
 		"word" : "그럼요",
 		"meaning" : "by all means / without fail / certainly / definitely",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 6
 	},
 	{
 		"id" : 136,
 		"word" : "ดี",
 		"meaning" : "good / is good",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 7
 	},
 	{
 		"id" : 137,
 		"word" : "สวัส",
 		"meaning" : "blessing / good fortune",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 7
 	},
 	{
 		"id" : 139,
 		"word" : "ครับ",
 		"meaning" : "(polite M)",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 7
 	},
 	{
 		"id" : 140,
 		"word" : "ค่ะ",
 		"meaning" : "(polite, F)",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 7
 	},
 	{
 		"id" : 141,
 		"word" : "สวัสดีครับ",
 		"meaning" : "hello (M) / goodbye (M)",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 7
 	},
 	{
 		"id" : 142,
 		"word" : "สวัสดีค่ะ",
 		"meaning" : "hello (F) / goodbye (F)",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 7
 	},
 	{
 		"id" : 145,
 		"word" : "วัสดี",
 		"meaning" : "hi / hey / (inf. abbrev.)",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 7
 	},
 	{
 		"id" : 146,
 		"word" : "vous",
 		"meaning" : "you / you all",
-		"status" : 5,
+		"grade" : 5,
 		"id_language" : 1
 	},
 	{
 		"id" : 147,
 		"word" : "fait",
 		"meaning" : "made / done / make / fact / occurrence",
-		"status" : 4,
+		"grade" : 4,
 		"id_language" : 1
 	},
 	{
 		"id" : 148,
 		"word" : "bonne",
 		"meaning" : "good",
-		"status" : 2,
+		"grade" : 2,
 		"id_language" : 1
 	},
 	{
 		"id" : 149,
 		"word" : "ai",
 		"meaning" : "have",
-		"status" : 3,
+		"grade" : 3,
 		"id_language" : 1
 	},
 	{
 		"id" : 150,
 		"word" : "avez",
 		"meaning" : "have",
-		"status" : 4,
+		"grade" : 4,
 		"id_language" : 1
 	},
 	{
 		"id" : 151,
 		"word" : "mon",
 		"meaning" : "my",
-		"status" : 4,
+		"grade" : 4,
 		"id_language" : 1
 	},
 	{
 		"id" : 152,
 		"word" : "טוב",
 		"meaning" : "good",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 8
 	},
 	{
 		"id" : 153,
 		"word" : "בוקר",
 		"meaning" : "morning",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 8
 	},
 	{
 		"id" : 154,
 		"word" : "ערב",
 		"meaning" : "evening",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 8
 	},
 	{
 		"id" : 155,
 		"word" : "לילה",
 		"meaning" : "night",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 8
 	},
 	{
 		"id" : 156,
 		"word" : "להתראות",
 		"meaning" : "good bye",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 8
 	},
 	{
 		"id" : 157,
 		"word" : "טובים",
 		"meaning" : "good",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 8
 	},
 	{
 		"id" : 158,
 		"word" : "צהריים",
 		"meaning" : "noon",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 8
 	},
 	{
 		"id" : 159,
 		"word" : "אחר",
 		"meaning" : "after / other",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 8
 	},
 	{
 		"id" : 160,
 		"word" : "בוקר טוב",
 		"meaning" : "good morning",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 8
 	},
 	{
 		"id" : 161,
 		"word" : "אחר צהריים טובים",
 		"meaning" : "good afternoon",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 8
 	},
 	{
 		"id" : 162,
 		"word" : "ערב טוב",
 		"meaning" : "good evening",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 8
 	},
 	{
 		"id" : 163,
 		"word" : "לילה טוב",
 		"meaning" : "good night",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 8
 	},
 	{
 		"id" : 164,
 		"word" : "אחר צהריים",
 		"meaning" : "afternoon",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 8
 	},
 	{
 		"id" : 165,
 		"word" : "Oui",
 		"meaning" : "yes",
-		"status" : 5,
+		"grade" : 5,
 		"id_language" : 1
 	},
 	{
 		"id" : 166,
 		"word" : "On",
 		"meaning" : "someone / somebody / you / one / we",
-		"status" : 4,
+		"grade" : 4,
 		"id_language" : 1
 	},
 	{
 		"id" : 167,
 		"word" : "peut",
 		"meaning" : "can / may",
-		"status" : 5,
+		"grade" : 5,
 		"id_language" : 1
 	},
 	{
 		"id" : 168,
 		"word" : "ça",
 		"meaning" : "that / this / it",
-		"status" : 4,
+		"grade" : 4,
 		"id_language" : 1
 	},
 	{
 		"id" : 169,
 		"word" : "comme",
 		"meaning" : "as / just as / like / how",
-		"status" : 3,
+		"grade" : 3,
 		"id_language" : 1
 	},
 	{
 		"id" : 171,
 		"word" : "longtemps",
 		"meaning" : "long time / long while / long",
-		"status" : 5,
+		"grade" : 5,
 		"id_language" : 1
 	},
 	{
 		"id" : 172,
 		"word" : "là",
 		"meaning" : "there",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 1
 	},
 	{
 		"id" : 173,
 		"word" : "une",
 		"meaning" : "a / an / one / front page",
-		"status" : 5,
+		"grade" : 5,
 		"id_language" : 1
 	},
 	{
 		"id" : 174,
 		"word" : "j",
 		"meaning" : "I",
-		"status" : 99,
+		"grade" : 99,
 		"id_language" : 1
 	},
 	{
 		"id" : 175,
 		"word" : "premier",
 		"meaning" : "first / primary / prime / initial",
-		"status" : 4,
+		"grade" : 4,
 		"id_language" : 1
 	},
 	{
 		"id" : 176,
 		"word" : "y",
 		"meaning" : "there / here / in",
-		"status" : 2,
+		"grade" : 2,
 		"id_language" : 1
 	},
 	{
 		"id" : 177,
 		"word" : "a",
 		"meaning" : "have / has",
-		"status" : 2,
+		"grade" : 2,
 		"id_language" : 1
 	},
 	{
 		"id" : 178,
 		"word" : "action",
 		"meaning" : "action / deed",
-		"status" : 2,
+		"grade" : 2,
 		"id_language" : 1
 	},
 	{
 		"id" : 179,
 		"word" : "don",
 		"meaning" : "donation",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 1
 	},
 	{
 		"id" : 180,
 		"word" : "du",
 		"meaning" : "of / from / some",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 1
 	},
 	{
 		"id" : 181,
 		"word" : "sang",
 		"meaning" : "blood",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 1
 	},
 	{
 		"id" : 182,
 		"word" : "ce",
 		"meaning" : "this / that / it",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 1
 	},
 	{
 		"id" : 183,
 		"word" : "que",
 		"meaning" : "that / how / so that / so",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 1
 	},
 	{
 		"id" : 184,
 		"word" : "他",
 		"meaning" : "he",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 2
 	},
 	{
 		"id" : 185,
 		"word" : "看见",
 		"meaning" : "see / catch sight",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 2
 	},
 	{
 		"id" : 186,
 		"word" : "前面",
 		"meaning" : "ahead / front",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 2
 	},
 	{
 		"id" : 187,
 		"word" : "有",
 		"meaning" : "have / occur",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 2
 	},
 	{
 		"id" : 188,
 		"word" : "只",
 		"meaning" : "(MW) / only",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 2
 	},
 	{
 		"id" : 189,
 		"word" : "黑色",
 		"meaning" : "black color",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 2
 	},
 	{
 		"id" : 190,
 		"word" : "的",
 		"meaning" : "(Part.) / 's",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 2
 	},
 	{
 		"id" : 191,
 		"word" : "大",
 		"meaning" : "big / strong",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 2
 	},
 	{
 		"id" : 192,
 		"word" : "狗",
 		"meaning" : "dog",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 2
 	},
 	{
 		"id" : 193,
 		"word" : "看起来",
 		"meaning" : "seems / appears / looks as",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 2
 	},
 	{
 		"id" : 194,
 		"word" : "很",
 		"meaning" : "very",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 2
 	},
 	{
 		"id" : 195,
 		"word" : "凶",
 		"meaning" : "ferocious / terrible",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 2
 	},
 	{
 		"id" : 196,
 		"word" : "非常",
 		"meaning" : "exceptional / very",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 2
 	},
 	{
 		"id" : 197,
 		"word" : "害怕",
 		"meaning" : "be afraid",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 2
 	},
 	{
 		"id" : 198,
 		"word" : "不",
 		"meaning" : "not",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 2
 	},
 	{
 		"id" : 199,
 		"word" : "敢",
 		"meaning" : "dare",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 2
 	},
 	{
 		"id" : 200,
 		"word" : "往前",
 		"meaning" : "go forward / move ahead",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 2
 	},
 	{
 		"id" : 201,
 		"word" : "旁边",
 		"meaning" : "side / near by position/ right by",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 2
 	},
 	{
 		"id" : 202,
 		"word" : "站",
 		"meaning" : "stand",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 2
 	},
 	{
 		"id" : 203,
 		"word" : "着",
 		"meaning" : "(there) / (cont.)",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 2
 	},
 	{
 		"id" : 204,
 		"word" : "女人",
 		"meaning" : "woman",
-		"status" : 2,
+		"grade" : 2,
 		"id_language" : 2
 	},
 	{
 		"id" : 205,
 		"word" : "问",
 		"meaning" : "ask",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 2
 	},
 	{
 		"id" : 206,
 		"word" : "她",
 		"meaning" : "she / her",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 2
 	},
 	{
 		"id" : 207,
 		"word" : "你",
 		"meaning" : "you",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 2
 	},
 	{
 		"id" : 208,
 		"word" : "咬",
 		"meaning" : "bite",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 2
 	},
 	{
 		"id" : 209,
 		"word" : "吗",
 		"meaning" : "(QW)",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 2
 	},
 	{
 		"id" : 210,
 		"word" : "说",
 		"meaning" : "say",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 2
 	},
 	{
 		"id" : 211,
 		"word" : "我的",
 		"meaning" : "my",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 2
 	},
 	{
 		"id" : 212,
 		"word" : "这时",
 		"meaning" : "at this time",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 2
 	},
 	{
 		"id" : 213,
 		"word" : "那",
 		"meaning" : "that",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 2
 	},
 	{
 		"id" : 214,
 		"word" : "了",
 		"meaning" : "(compl.) / finish / (change)",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 2
 	},
 	{
 		"id" : 215,
 		"word" : "气坏",
 		"meaning" : "furious",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 2
 	},
 	{
 		"id" : 216,
 		"word" : "叫",
 		"meaning" : "shout",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 2
 	},
 	{
 		"id" : 217,
 		"word" : "回答",
 		"meaning" : "answer",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 2
 	},
 	{
 		"id" : 218,
 		"word" : "这",
 		"meaning" : "this",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 2
 	},
 	{
 		"id" : 219,
 		"word" : "是",
 		"meaning" : "be",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 2
 	},
 	{
 		"id" : 220,
 		"word" : "你的",
 		"meaning" : "your",
-		"status" : 1,
+		"grade" : 1,
 		"id_language" : 2
 	}
 ]

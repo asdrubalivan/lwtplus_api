@@ -15,7 +15,7 @@ module.exports = {
         allowNull: false,
       },
       content: {
-        type: Sequelize.STRING,
+        type: Sequelize.TEXT('long'),
         allowNull: false,
       },
       media_file: Sequelize.STRING(max_size_url),
