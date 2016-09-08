@@ -1,10 +1,10 @@
 'use strict';
 
-var jsonseederutils  = require('../utils/jsonseederutils');
+var readfile  = require('../utils/jsonseederutils').readfile;
 
 module.exports = {
   up: function (queryInterface, Sequelize) {
-    var languages = jsonseederutils.readfile('languages');
+    var languages = readfile('languages');
     return queryInterface.bulkInsert('Languages', languages);
   },
 
