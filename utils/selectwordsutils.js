@@ -33,6 +33,7 @@ var generateCountWordsTextSQL = generateSquelFunction({
 var generateSelectWordsTextSQL = generateSquelFunction({
     selectCb: function (squelObj) {
        return squelObj
+            .field('w.id')
             .field('w.word')
             .field('w.meaning')
             .field('w.grade');
