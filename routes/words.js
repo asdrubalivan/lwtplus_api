@@ -3,6 +3,7 @@ var models = require('../models');
 var express = require('express');
 var _ = require('lodash');
 var router  = express.Router();
+var selectwordsutils = require('../utils/selectwordsutils');
 
 function getWordParams(params) {
   return {
@@ -17,6 +18,20 @@ router.get('/', (req, res) => {
   models.Word.findAll().then((words)=>{
     res.send(words);
   });
+});
+
+router.get('/wordsintext/:textid', (req, res) => {
+    let sqlObj = selectwordsutils.generateSelectWordsTextSQL({
+        textid: req.params.textid
+    });
+    let sql = sqlObj.toParam({numberedParameters: false});
+    models.sequelize.query(sql.text,{
+        replacements: sql.values,
+        type: models.sequelize.QueryTypes.SELECT
+    }).then((words) => {
+        res.send(words);
+    });
+    
 });
 
 router.get('/:id', (req, res) => {
