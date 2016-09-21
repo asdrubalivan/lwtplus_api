@@ -3,7 +3,7 @@ var models = require('../models');
 var express = require('express');
 var _ = require('lodash');
 var router  = express.Router();
-
+var selectwordsutils = require('../utils/selectwordsutils');
 function getWordParams(params) {
   return {
     word: params.word,
@@ -13,10 +13,29 @@ function getWordParams(params) {
   };
 }
 
+
 router.get('/', (req, res) => {
   models.Word.findAll().then((words)=>{
     res.send(words);
   });
+});
+
+router.get('/wordsintext/:textid', (req, res) => {
+    models.Word
+        .selectWordsInText(req.params.textid)
+        .then((words) => {
+        res.send(words);
+    });
+    
+});
+
+router.get('/countwordsintext/:textid', (req, res) => {
+    models.Word
+        .countWordsInText(req.params.textid)
+        .then((words) => {
+        res.send(words[0]); //This is always going to return one object
+    });
+    
 });
 
 router.get('/:id', (req, res) => {
