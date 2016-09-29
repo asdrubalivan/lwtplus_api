@@ -12,10 +12,12 @@ app.use(bodyParser.urlencoded({ extended: true }));
   app.use(`/api/v1/${val}`, passport.authenticate(), route);
 });
 app.post('/api/v1/token', function (req, res) {
+    var moment = require('moment');
     var post = _.pick(req.body, ['id', 'pass']);
-    console.log('POST', post);
     if (post.id === 'test' && post.pass === "test") {
-        let token = jwt.encode(post, "my-secret"); //TODO Change
+        var expiration = moment().add(15, 'minutes').toDate();
+        var tokenData = _.merge(post, {expiration: expiration});
+        let token = jwt.encode(tokenData, "my-secret"); //TODO Change
         res.json({token: token});
     } else {
         res.sendStatus(401);

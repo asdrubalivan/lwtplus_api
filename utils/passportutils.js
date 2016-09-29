@@ -8,7 +8,11 @@ var opts = {};
 opts.secretOrKey = 'my-secret';
 opts.jwtFromRequest = ExtractJwt.fromAuthHeader();
 passport.use(new JwtStrategy(opts, function(jwt_payload, done) {
-    if (jwt_payload.id === 'test' && jwt_payload.pass === 'test') {
+    var exp = new Date(jwt_payload.expiration);
+    var now = new Date();
+    if (jwt_payload.id === 'test' 
+        && jwt_payload.pass === 'test'
+        && exp > now) {
         return done(null, _.pick(jwt_payload,['id', 'pass']));
     } else {
         return done(null, false);
