@@ -7,7 +7,7 @@
 		"remove_spaces" : "f",
 		"split_each_char" : "f",
 		"regex_split_sentences" : ".!?:;",
-        "id_user": 1
+                "id_user": 1
 	},
 	{
 		"code" : "CH",
@@ -17,7 +17,7 @@
 		"remove_spaces" : "t",
 		"split_each_char" : "t",
 		"regex_split_sentences" : ".!?:;。！？：；",
-        "id_user": 1
+                "id_user": 1
 	},
 	{
 		"code" : "GE",
@@ -27,7 +27,7 @@
 		"remove_spaces" : "f",
 		"split_each_char" : "f",
 		"regex_split_sentences" : ".!?:;",
-        "id_user": 1
+                "id_user": 1
 	},
 	{
 		"code" : "CH2",
@@ -37,7 +37,7 @@
 		"remove_spaces" : "t",
 		"split_each_char" : "f",
 		"regex_split_sentences" : ".!?:;。！？：；",
-        "id_user": 2
+                "id_user": 2
 	},
 	{
 		"code" : "JP",
@@ -47,7 +47,7 @@
 		"remove_spaces" : "t",
 		"split_each_char" : "t",
 		"regex_split_sentences" : ".!?:;。！？：；",
-        "id_user": 2
+                "id_user": 2
 	},
 	{
 		"code" : "KR",
@@ -57,7 +57,7 @@
 		"remove_spaces" : "f",
 		"split_each_char" : "f",
 		"regex_split_sentences" : ".!?:;。！？：；",
-        "id_user": 3
+                "id_user": 3
 	},
 	{
 		"code" : "TH",
@@ -67,7 +67,7 @@
 		"remove_spaces" : "t",
 		"split_each_char" : "f",
 		"regex_split_sentences" : ".!?:;",
-        "id_user": 4
+                "id_user": 4
 	},
 	{
 		"code" : "HB",
@@ -77,6 +77,6 @@
 		"remove_spaces" : "f",
 		"split_each_char" : "f",
 		"regex_split_sentences" : ".!?:;",
-        "id_user": 4
+                "id_user": 4
 	}
 ]
