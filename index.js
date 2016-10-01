@@ -6,7 +6,7 @@ app.use(passport.initialize());
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use('/api/v1/auth',require('./routes/auth'));
-['languages','words', 'texts'].forEach((val) => {
+['users','languages','words', 'texts'].forEach((val) => {
   var route = require(`./routes/${val}`);
   app.use(`/api/v1/${val}`, passport.authenticate(), route);
 });
