@@ -1,7 +1,6 @@
 'use strict';
 
-const bcrypt = require('bcrypt-as-promised');
-const bcryptSync = require('bcrypt');
+const bcrypt = require('bcrypt');
 
 const ROUNDS = 10;
 
@@ -18,8 +17,8 @@ module.exports = function(sequelize, DataTypes) {
         type: DataTypes.STRING,
         set: function (val) {
            //Setters are synchronous http://stackoverflow.com/a/22006362/1767047
-           var salt = bcryptSync.genSaltSync(ROUNDS);
-           var hash = bcryptSync.hashSync(val, salt); 
+           var salt = bcrypt.genSaltSync(ROUNDS);
+           var hash = bcrypt.hashSync(val, salt); 
            this.setDataValue('password', hash);
         }
     },
@@ -35,13 +34,20 @@ module.exports = function(sequelize, DataTypes) {
     classMethods: {
       associate: function(models) {
         // associations can be defined here
+      },
+      whereUser: function (username) {
+        return this.find({
+            where: {
+                user: username
+            }
+        });
       }
     },
     instanceMethods: {
       validatePassword: function (password) {
-          return bcrypt.compare(password, this.password);
+          return bcrypt.compareSync(password, this.password);
       }
-    }
+    },
   });
   return User;
 };
