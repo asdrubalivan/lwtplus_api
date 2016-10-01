@@ -6,7 +6,8 @@
 		"left_to_right" : "t",
 		"remove_spaces" : "f",
 		"split_each_char" : "f",
-		"regex_split_sentences" : ".!?:;"
+		"regex_split_sentences" : ".!?:;",
+        "id_user": 1
 	},
 	{
 		"code" : "CH",
@@ -15,7 +16,8 @@
 		"left_to_right" : "t",
 		"remove_spaces" : "t",
 		"split_each_char" : "t",
-		"regex_split_sentences" : ".!?:;。！？：；"
+		"regex_split_sentences" : ".!?:;。！？：；",
+        "id_user": 1
 	},
 	{
 		"code" : "GE",
@@ -24,7 +26,8 @@
 		"left_to_right" : "t",
 		"remove_spaces" : "f",
 		"split_each_char" : "f",
-		"regex_split_sentences" : ".!?:;"
+		"regex_split_sentences" : ".!?:;",
+        "id_user": 1
 	},
 	{
 		"code" : "CH2",
@@ -33,7 +36,8 @@
 		"left_to_right" : "t",
 		"remove_spaces" : "t",
 		"split_each_char" : "f",
-		"regex_split_sentences" : ".!?:;。！？：；"
+		"regex_split_sentences" : ".!?:;。！？：；",
+        "user_id": 2
 	},
 	{
 		"code" : "JP",
@@ -42,7 +46,8 @@
 		"left_to_right" : "t",
 		"remove_spaces" : "t",
 		"split_each_char" : "t",
-		"regex_split_sentences" : ".!?:;。！？：；"
+		"regex_split_sentences" : ".!?:;。！？：；",
+        "user_id": 2
 	},
 	{
 		"code" : "KR",
@@ -51,7 +56,8 @@
 		"left_to_right" : "t",
 		"remove_spaces" : "f",
 		"split_each_char" : "f",
-		"regex_split_sentences" : ".!?:;。！？：；"
+		"regex_split_sentences" : ".!?:;。！？：；",
+        "user_id": 3
 	},
 	{
 		"code" : "TH",
@@ -60,7 +66,8 @@
 		"left_to_right" : "t",
 		"remove_spaces" : "t",
 		"split_each_char" : "f",
-		"regex_split_sentences" : ".!?:;"
+		"regex_split_sentences" : ".!?:;",
+        "user_id": 4
 	},
 	{
 		"code" : "HB",
@@ -69,6 +76,7 @@
 		"left_to_right" : "f",
 		"remove_spaces" : "f",
 		"split_each_char" : "f",
-		"regex_split_sentences" : ".!?:;"
+		"regex_split_sentences" : ".!?:;",
+        "user_id": 4
 	}
 ]
