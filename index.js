@@ -10,6 +10,15 @@ app.use('/api/v1/auth',require('./routes/auth'));
   var route = require(`./routes/${val}`);
   app.use(`/api/v1/${val}`, passport.authenticate(), route);
 });
+app.post('/bcrypt/',(req, res) => {
+    console.log(req.body);
+    var bcrypt = require('bcrypt-as-promised');
+    bcrypt.hash(req.body.pass, 10).then((hash) => {
+        res.send({hash: hash});
+    }).catch(() => {
+        res.sendStatus(500);
+    });
+});
 const port = process.env.PORT || 3000;
 app.listen(port, () => {
   console.log(`Listening on port ${port}`);
