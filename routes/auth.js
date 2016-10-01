@@ -6,6 +6,21 @@ var User = require('../models').User;
 
 var router = express.Router();
 router.post('/token', function (req, res) {
+    req
+        .checkBody('user','Invalid or empty user')
+        .notEmpty()
+        .isAlpha();
+    req
+        .checkBody('pass','Invalid or empty password')
+        .notEmpty();
+    var errors = req.validationErrors();
+    if (errors) {
+        res.status(401).send({
+            hasErrors: true,
+            errors: errors
+        });
+        return;
+    }
     var post = _.pick(req.body, ['user', 'pass']);
     User.whereUser(post.user)
         .then(function (user) {
