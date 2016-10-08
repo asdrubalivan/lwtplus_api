@@ -21,6 +21,16 @@ module.exports = function(sequelize, DataTypes) {
             type: sequelize.QueryTypes.SELECT
         });
       },
+      wordBelongsToUser: function (idWord, idUser) {
+         let sql = `select 1 as exist from "Words" w 
+            inner join "Languages" l
+                on l.id = w.id_language
+            where l.id_user = ? and w.id = ? limit 1`;
+         return sequelize.query(sql, {
+            replacements: [idUser, idWord],
+            type: sequelize.QueryTypes.SELECT
+         });
+      },
       countWordsInText: function(textid) {
           let sqlObj = selectwordsutils.generateCountWordsTextSQL({
             textid: textid
