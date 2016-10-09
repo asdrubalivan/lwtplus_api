@@ -29,6 +29,14 @@ module.exports = function(sequelize, DataTypes) {
     classMethods: {
       associate: function(models) {
         // associations can be defined here
+      },
+      langBelongsToUser: function (idLang, idUser) {
+          let sql = `select 1 as exist from "Languages" l 
+            where l.id = ? and l.id_user = ? limit 1`;
+        return sequelize.query(sql, {
+           replacements: [idLang, idUser],
+           type: sequelize.QueryTypes.SELECT
+        });
       }
     }
   });

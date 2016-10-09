@@ -3,7 +3,8 @@ var models = require('../models');
 var express = require('express');
 var _ = require('lodash');
 var router  = express.Router();
-var selectwordsutils = require('../utils/selectwordsutils');
+var isWordEditableMiddleware = 
+    require('../utils/middlewareutils').isWordEditableMiddleware;
 function getWordParams(params) {
   return {
     word: params.word,
@@ -12,7 +13,6 @@ function getWordParams(params) {
     id_language: params.id_language,
   };
 }
-
 
 router.get('/', (req, res) => {
   models.Word.findAll().then((words)=>{
@@ -38,7 +38,7 @@ router.get('/countwordsintext/:textid', (req, res) => {
     
 });
 
-router.get('/:id', (req, res) => {
+router.get('/:id' ,isWordEditableMiddleware, (req, res) => {
   models.Word.find({
     where: {
       id: req.params.id
@@ -66,7 +66,7 @@ router.post('/', (req, res) => {
   });
 });
 
-router.put('/:id', (req, res) => {
+router.put('/:id',isWordEditableMiddleware, (req, res) => {
   /*
     TODO Change
     express deprecated res.send(status, body): Use res.status(status).send(body) instead routes/Words.js:50:9
@@ -86,7 +86,7 @@ router.put('/:id', (req, res) => {
   });
 });
 
-router.delete('/:id',(req, res) => {
+router.delete('/:id',isWordEditableMiddleware,(req, res) => {
   let condition = {
     where: {
       id: req.params.id

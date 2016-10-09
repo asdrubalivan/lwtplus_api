@@ -3,6 +3,8 @@ var models = require('../models');
 var express = require('express');
 var _ = require('lodash');
 var router  = express.Router();
+var isTextEditableMiddleware = 
+    require('../utils/middlewareutils').isTextEditableMiddleware;
 
 function getTextParams(params) {
   return {
@@ -22,7 +24,7 @@ router.get('/', (req, res) => {
   });
 });
 
-router.get('/:id', (req, res) => {
+router.get('/:id', isTextEditableMiddleware ,(req, res) => {
   models.Text.find({
     where: {
       id: req.params.id
@@ -50,7 +52,7 @@ router.post('/', (req, res) => {
   });
 });
 
-router.put('/:id', (req, res) => {
+router.put('/:id', isTextEditableMiddleware ,(req, res) => {
   /*
     TODO Change
     express deprecated res.send(status, body): Use res.status(status).send(body) instead routes/Texts.js:50:9
@@ -70,7 +72,7 @@ router.put('/:id', (req, res) => {
   });
 });
 
-router.delete('/:id',(req, res) => {
+router.delete('/:id',isTextEditableMiddleware,(req, res) => {
   let condition = {
     where: {
       id: req.params.id

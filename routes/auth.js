@@ -26,7 +26,10 @@ router.post('/token', function (req, res) {
         .then(function (user) {
            if (user.validatePassword(post.pass)) {
             let expiration = moment().add(15, 'minutes').toDate();
-            let tokenData = _.merge(post, {expiration: expiration});
+            let tokenData = {
+                user: post.user,
+                expiration: expiration, 
+            };
             let token = jwt.encode(tokenData, "my-secret"); //TODO Change
             res.json({token: token});
            } else {
