@@ -3,7 +3,8 @@ var models = require('../models');
 var express = require('express');
 var _ = require('lodash');
 var router  = express.Router();
-var selectwordsutils = require('../utils/selectwordsutils');
+var isWordEditableMiddleware = 
+    require('../utils/middlewareutils').isWordEditableMiddleware;
 function getWordParams(params) {
   return {
     word: params.word,
@@ -12,19 +13,6 @@ function getWordParams(params) {
     id_language: params.id_language,
   };
 }
-
-function isWordEditableMiddleware(req, res, next) {
-    models.Word
-        .wordBelongsToUser(req.params.id, req.user.id)
-        .then(function (data) {
-            if (_.get(data,'0.exist', 0) === 1) {
-                next();
-            } else {
-                res.sendStatus(401);
-            }
-        });
-}
-
 
 router.get('/', (req, res) => {
   models.Word.findAll().then((words)=>{
